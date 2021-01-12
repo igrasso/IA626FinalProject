@@ -21,6 +21,12 @@ Answers of “white,” “caucasion,” “Hispanic-white,” and “caucasian�
 |Other|571|
 
 
+## Primary Language of SNAP recipients
 
+The primary languages spoken are English, Spanish, and "Other."
 
-
+|Primary Language|Frequency|
+|----------------|---------|
+|English|16992|
+|Spanish|2389|
+|Other|619|
