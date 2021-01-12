@@ -7,6 +7,10 @@ There are over 500,000 Floridians who are eligible for SNAP benefits but do not 
 
 ## Racial Distribution Among Florida SNAP Recipients
 
+Answers of “white,” “caucasion,” “Hispanic-white,” and “caucasian” were all categorized as “White.” Answers of “black,” “Hispanic-black,” and “African American” were categorized as “Black/African American”. “Asian” and “asian” were categorized as “Asian.” “Native American” and “Native American and Native Alaskan” were categorized as “Native American/Native Alaskan.” Assumptions were made to match the categories provided in US census data https://www.infoplease.com/us/census/florida/demographic-statistics
+
+
+
 |Race|Frequency|
 |----|---------|
 |White| 11624|
