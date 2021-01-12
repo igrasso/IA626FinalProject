@@ -10,6 +10,12 @@ There are over 500,000 Floridians who are eligible for SNAP benefits but do not 
 |Race|Frequency|
 |----|---------|
 |White| 11624|
+|Black/African American|3987|
+|Asian|1167|
+|Native American/Alaskan Native|2015|
+|Pacific Islander|618|
+|Other|571|
+
 
 
 
