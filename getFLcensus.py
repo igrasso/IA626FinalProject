@@ -22,10 +22,9 @@ print(chist)
 # ALter race data and store into dictionary
 chist = {}
 print(census_race)
-print(" ")
 for row in census_race:
     if row[0] == '0':
-        row[0] = "All races"
+        row[0] = "Other"
     if row[0] == '1':
         row[0] = "White"
     if row[0] == '2':
@@ -37,7 +36,7 @@ for row in census_race:
     if row[0] == '5':
         row[0] = "Native Hawaiian/Pacific Islander"
     if row[0] == '6':
-        row[0] = "Two or More Races"
+        row[0] = "Other"
     if row[0] == '7':
         row[0] = "White"
     if row[0] == '8':
@@ -54,6 +53,8 @@ for row in census_race:
             chist[k] += int(row[1])
         else:
             chist[k] = int(row[1])
+
+print(chist)
 
 # Write to CSV file
 csv_file = "census_race.csv"
