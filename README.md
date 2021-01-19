@@ -12,18 +12,22 @@ First the ethnicity data was visualized in a histogram, showing the frequency of
 ## Racial Distribution Among Greater Population of Florida
 
 The US Census API was used to gather data from 2018. They utilized the following code system:
-      "11": "Native Hawaiian and Other Pacific Islander alone or in combination",
-      "10": "Asian alone or in combination",
-      "9": "American Indian and Alaska Native alone or in combination",
-      "8": "Black alone or in combination",
-      "7": "White alone or in combination",
-      "6": "Two or more races",
-      "5": "Native Hawaiian and Other Pacific Islander alone",
-      "4": "Asian alone",
-      "3": "American Indian and Alaska Native alone",
-      "2": "Black alone",
-      "1": "White alone",
-      "0": "All races"
+|Code|Racial Category|
+|-----|--------|
+| 11| Native Hawaiian and Other Pacific Islander alone or in combination|
+| 10 | Asian alone or in combination |
+|9 |American Indian and Alaska Native alone or in combination|
+|8| Black alone or in combination |
+ |7|White alone or in combination |
+ |6|Two or more races |
+ |5| Native Hawaiian and Other Pacific Islander alone| 
+ | 4 | Asian alone| 
+|3 |American Indian and Alaska Native alone |
+| 2 | Black alone |
+| 1 | White alone |
+| 0 | All races |
+
+
 Codes 0 and 6 were recoded as "Other". Codes 2 and 8 were recoded as "Black/African American". Codes 1 and 7 were recoded as "White". Codes 3 and 9 were recoded as "Native American/Alaskan Native". Codes 4 and 10 were recoded as "Asian". Codes 5 and 11 were recoded as "Native Hawaiian/Pacific Islander". 
 
 |Race|Percent of SNAP Pop| Percent of FL Pop|
@@ -54,11 +58,11 @@ All of the above data was stored into CSV files which were then loaded into R fo
 
 
 ![alt text](https://github.com/igrasso/IA626FinalProject/blob/main/Data%20Visualization:Analysis/rep_by_race.png)
-*Figure 1: Representation by Race of FL SNAP recipients. The vertical black line lies at x = 1. This would indicate a proportionate representation of SNAP recipients to the greater population of Floridians.* 
+*Figure 1: Representation by Race of FL SNAP recipients. The vertical black line lies at x = 1. This would indicate a proportionate representation (100%) of SNAP recipients to the greater population of Floridians.* 
 
-**Add in analysis here** Most likely Chi quared goodness of fit test with post hoc analysis using bonferroni adjustment. 
+A Chi Squared Goodness of Fit test was performed. With a p-value < 0.001, the racial distribution of SNAP recipients is significantly different from the Florida population at large. Post hoc analysis using a Bonferroni adjustment shows that this is largely because of the disproportionate representation of Native Americans/Alaskan Natives and Native Hawaiians/Pacific Islanders. I hypothesize that this large variation in proportion is due to the extremely small sample sizes of those populations as well as the marginalization of those communities that has resulted in disproportionate need of government services. 
 
 ![alt text](https://github.com/igrasso/IA626FinalProject/blob/main/Data%20Visualization:Analysis/rep_by_lang.png)
-*Figure 2: Representation by Language of FL SNAP recipients. The vertical black line lies at x = 1. This would indicate a proportionate representation of SNAP recipients to the greater population of FLoridians.*
+*Figure 2: Representation by Language of FL SNAP recipients. The vertical black line lies at x = 1. This would indicate a proportionate representation (100%) of SNAP recipients to the greater population of FLoridians.*
 
-**Add in analysis here** Most likely test for proportion for each language as frequency data is unavailable from wikipedia. 
+A Chi Squared Goodness of Fit test was performed. With a p-value < 0.001, the distribution of primary language spoken by SNAP recipients is significantly different from the Florida population at large. Post hoc analysis using a Bonferroni adjustment shows that Spanish speakers are underrepresented with a p-value < 0.01 and English speakers are overrepresented with a p-value < 0.01. 
