@@ -5,28 +5,35 @@ library(tidyverse)
 # Read data
 census_race <- read_csv("census_race.csv", col_names = FALSE)
 names(census_race) <- c("RACE", "POP")
+census_race <- census_race[order(census_race$RACE),]
+census_race <- census_race %>%
+  mutate(PERCPOP = POP/sum(POP))
+
 
 census_lang <- read_csv("census_language.csv", col_names = FALSE)
 names(census_lang) <- c("LANG", "PERCPOP")
+census_lang <- census_lang[order(census_lang$LANG),]
 
 snap_race <- read_csv("snap_race.csv", col_names = FALSE)
 names(snap_race) <- c("RACE", "POP")
+snap_race <- snap_race[order(snap_race$RACE),]
+snap_race <- snap_race %>% 
+  mutate(PERCPOP = POP/sum(POP))
 
 snap_lang <- read_csv("snap_language.csv", col_names = FALSE)
 names(snap_lang) <- c("LANG", "POP" )
-
-# Add row for snap race that says All Races
-snap_race <- snap_race %>%
-  add_row("RACE" = "All races", "POP" = 0) 
+snap_lang <- snap_lang[order(snap_lang$LANG),]
+snap_lang <- snap_lang %>%
+  mutate(PERCPOP = POP/sum(POP))
 
 # Create df of representation of languages in SNAP
 df_lrep <- data.frame(
-  snap_percpop = snap_lang$POP/sum(snap_lang$POP)*100/census_lang$PERCPOP,
+  snap_percpop = snap_lang$PERCPOP*100/census_lang$PERCPOP,
   lang = snap_lang$LANG
 )
 
 df_rrep <- data.frame(
-  snap_percpop = snap_race$POP/sum(snap_race$POP)/(census_race$POP/sum(census_race$POP)),
+  snap_percpop = snap_race$PERCPOP/census_race$PERCPOP,
   race = snap_race$RACE
 )
 
@@ -62,7 +69,7 @@ ggplot(df_rrep, aes(x = race, y = snap_percpop)) +
     y = ""
   ) +
   coord_flip() +
-  scale_y_continuous(breaks = c(seq(0, 35, 10)),
+  scale_y_continuous(breaks = c(seq(0, 35, 5)),
                      limits = c(0, 35),
                      labels = scales::percent) +
   geom_text(aes(label= paste0(round(snap_percpop*100, digits = 2), "%")),
