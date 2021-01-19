@@ -53,7 +53,7 @@ To access this information wikipedia was scraped from this URL: https://en.wikip
 All of the above data was stored into CSV files which were then loaded into R for visualization. GGPlot was utilized. To prepare the data for visualization any data that represented frequency was transformed to represent percentage of the total data. Then the distribution of the SNAP data was compared to the distribution of the census/wikipedia data of the greater Florida population to see if there are any over or under populated groups.
 
 
-![alt text]()
+![alt text](https://github.com/igrasso/IA626FinalProject/blob/main/Data%20Visualization:Analysis/rep_by_race.png)
 *Figure 1: Representation by Race of FL SNAP recipients. The vertical black line lies at x = 1. This would indicate a proportionate representation of SNAP recipients to the greater population of Floridians.* 
 
 **Add in analysis here** Most likely Chi quared goodness of fit test with post hoc analysis using bonferroni adjustment. 
