@@ -1,0 +1,1091 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Demographics of Florida - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"X-2rBApAMMMAA63l2BQAAACU","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Demographics_of_Florida","wgTitle":"Demographics of Florida","wgCurRevisionId":995254078,"wgRevisionId":995254078,"wgArticleId":16721718,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles needing additional references from January 2015","All articles needing additional references","Use mdy dates from July 2020","Articles with short description","Short description is different from Wikidata","Articles containing potentially dated statements from 2010",
+"All articles containing potentially dated statements","Demographics of Florida"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Demographics_of_Florida","wgRelevantArticleId":16721718,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgPopupsConflictsWithRefTooltipsGadget":!0,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0,"wgULSPosition":"interlanguage","wgWikibaseItemId":"Q3044244"};RLSTATE={"ext.globalCssJs.user.styles":
+"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","skins.vector.styles.legacy":"ready","jquery.tablesorter.styles":"ready","jquery.makeCollapsible.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.ready","jquery.tablesorter","jquery.makeCollapsible","mediawiki.toc","skins.vector.legacy.js","ext.gadget.ReferenceTooltips","ext.gadget.charinsert","ext.gadget.extra-toolbar-buttons","ext.gadget.refToolbar","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface",
+"ext.cx.eventlogging.campaigns","ext.centralNotice.geoIP","ext.centralNotice.startUp"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cjquery.tablesorter.styles%7Cskins.vector.styles.legacy%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.36.0-wmf.25"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="preconnect" href="//upload.wikimedia.org"/>
+<link rel="alternate" media="only screen and (max-width: 720px)" href="//en.m.wikipedia.org/wiki/Demographics_of_Florida"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Demographics_of_Florida&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Demographics_of_Florida&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Demographics_of_Florida"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Demographics_of_Florida rootpage-Demographics_of_Florida skin-vector action-view skin-vector-legacy"><div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+	</div>
+	<h1 id="firstHeading" class="firstHeading" lang="en">Demographics of Florida</h1>
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+		<div id="contentSub"></div>
+		<div id="contentSub2"></div>
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#searchInput">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table class="box-More_citations_needed plainlinks metadata ambox ambox-content ambox-Refimprove" role="presentation"><tbody><tr><td class="mbox-image"><div style="width:52px"><a href="/wiki/File:Question_book-new.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" decoding="async" width="50" height="39" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" data-file-width="512" data-file-height="399" /></a></div></td><td class="mbox-text"><div class="mbox-text-span">This article <b>needs additional citations for <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">verification</a></b>.<span class="hide-when-compact"> Please help <a class="external text" href="https://en.wikipedia.org/w/index.php?title=Demographics_of_Florida&amp;action=edit">improve this article</a> by <a href="/wiki/Help:Referencing_for_beginners" title="Help:Referencing for beginners">adding citations to reliable sources</a>. Unsourced material may be challenged and removed.<br /><small><span class="plainlinks"><i>Find sources:</i>&#160;<a rel="nofollow" class="external text" href="//www.google.com/search?as_eq=wikipedia&amp;q=%22Demographics+of+Florida%22">"Demographics of Florida"</a>&#160;–&#160;<a rel="nofollow" class="external text" href="//www.google.com/search?tbm=nws&amp;q=%22Demographics+of+Florida%22+-wikipedia">news</a>&#160;<b>·</b> <a rel="nofollow" class="external text" href="//www.google.com/search?&amp;q=%22Demographics+of+Florida%22+site:news.google.com/newspapers&amp;source=newspapers">newspapers</a>&#160;<b>·</b> <a rel="nofollow" class="external text" href="//www.google.com/search?tbs=bks:1&amp;q=%22Demographics+of+Florida%22+-wikipedia">books</a>&#160;<b>·</b> <a rel="nofollow" class="external text" href="//scholar.google.com/scholar?q=%22Demographics+of+Florida%22">scholar</a>&#160;<b>·</b> <a rel="nofollow" class="external text" href="https://www.jstor.org/action/doBasicSearch?Query=%22Demographics+of+Florida%22&amp;acc=on&amp;wc=on">JSTOR</a></span></small></span>  <small class="date-container"><i>(<span class="date">January 2015</span>)</i></small><small class="hide-when-compact"><i> (<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></div></td></tr></tbody></table>
+<p class="mw-empty-elt">
+</p>
+<div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">Overview of the demographics of Florida</div>
+<table class="toccolours" style="border-spacing: 1px; float: right; clear: right; margin: 0 0 1em 1em; text-align:right">
+
+<tbody><tr>
+<th colspan="4" class="navbox-title" style="padding-right:3px; padding-left:3px; font-size:110%; text-align:center">Historical population
+</th></tr>
+<tr>
+<th style="text-align:center; border-bottom:1px solid black">Census</th>
+<th style="text-align:center; border-bottom:1px solid black"><abbr title="Population">Pop.</abbr></th>
+<th style="text-align:center; border-bottom:1px solid black"></th>
+<th style="text-align:center; border-bottom:1px solid black"><abbr title="Percent change">%±</abbr>
+</th></tr><tr><td style="text-align:center"><b><a href="/wiki/1830_United_States_Census" class="mw-redirect" title="1830 United States Census">1830</a></b></td><td style="padding-left:8px;">34,730</td><td style="font-size:85%"></td><td style="padding-left:8px; text-align: center;">—</td></tr><tr><td style="text-align:center"><b><a href="/wiki/1840_United_States_Census" class="mw-redirect" title="1840 United States Census">1840</a></b></td><td style="padding-left:8px;">54,477</td><td style="font-size:85%"></td><td style="padding-left:8px; text-align: center;">56.9%</td></tr><tr><td style="text-align:center"><b><a href="/wiki/1850_United_States_Census" class="mw-redirect" title="1850 United States Census">1850</a></b></td><td style="padding-left:8px;">87,445</td><td style="font-size:85%"></td><td style="padding-left:8px; text-align: center;">60.5%</td></tr><tr><td style="text-align:center"><b><a href="/wiki/1860_United_States_Census" class="mw-redirect" title="1860 United States Census">1860</a></b></td><td style="padding-left:8px;">140,424</td><td style="font-size:85%"></td><td style="padding-left:8px; text-align: center;">60.6%</td></tr><tr><td style="text-align:center"><b><a href="/wiki/1870_United_States_Census" class="mw-redirect" title="1870 United States Census">1870</a></b></td><td style="padding-left:8px;">187,748</td><td style="font-size:85%"></td><td style="padding-left:8px; text-align: center;">33.7%</td></tr><tr><td style="text-align:center"><b><a href="/wiki/1880_United_States_Census" class="mw-redirect" title="1880 United States Census">1880</a></b></td><td style="padding-left:8px;">269,493</td><td style="font-size:85%"></td><td style="padding-left:8px; text-align: center;">43.5%</td></tr><tr><td style="text-align:center"><b><a href="/wiki/1890_United_States_Census" class="mw-redirect" title="1890 United States Census">1890</a></b></td><td style="padding-left:8px;">391,422</td><td style="font-size:85%"></td><td style="padding-left:8px; text-align: center;">45.2%</td></tr><tr><td style="text-align:center"><b><a href="/wiki/1900_United_States_Census" class="mw-redirect" title="1900 United States Census">1900</a></b></td><td style="padding-left:8px;">528,542</td><td style="font-size:85%"></td><td style="padding-left:8px; text-align: center;">35.0%</td></tr><tr><td style="text-align:center"><b><a href="/wiki/1910_United_States_Census" class="mw-redirect" title="1910 United States Census">1910</a></b></td><td style="padding-left:8px;">752,619</td><td style="font-size:85%"></td><td style="padding-left:8px; text-align: center;">42.4%</td></tr><tr><td style="text-align:center"><b><a href="/wiki/1920_United_States_Census" class="mw-redirect" title="1920 United States Census">1920</a></b></td><td style="padding-left:8px;">968,470</td><td style="font-size:85%"></td><td style="padding-left:8px; text-align: center;">28.7%</td></tr><tr><td style="text-align:center"><b><a href="/wiki/1930_United_States_Census" class="mw-redirect" title="1930 United States Census">1930</a></b></td><td style="padding-left:8px;">1,468,211</td><td style="font-size:85%"></td><td style="padding-left:8px; text-align: center;">51.6%</td></tr><tr><td style="text-align:center"><b><a href="/wiki/1940_United_States_Census" class="mw-redirect" title="1940 United States Census">1940</a></b></td><td style="padding-left:8px;">1,897,414</td><td style="font-size:85%"></td><td style="padding-left:8px; text-align: center;">29.2%</td></tr><tr><td style="text-align:center"><b><a href="/wiki/1950_United_States_Census" class="mw-redirect" title="1950 United States Census">1950</a></b></td><td style="padding-left:8px;">2,771,305</td><td style="font-size:85%"></td><td style="padding-left:8px; text-align: center;">46.1%</td></tr><tr><td style="text-align:center"><b><a href="/wiki/1960_United_States_Census" class="mw-redirect" title="1960 United States Census">1960</a></b></td><td style="padding-left:8px;">4,951,560</td><td style="font-size:85%"></td><td style="padding-left:8px; text-align: center;">78.7%</td></tr><tr><td style="text-align:center"><b><a href="/wiki/1970_United_States_Census" class="mw-redirect" title="1970 United States Census">1970</a></b></td><td style="padding-left:8px;">6,789,443</td><td style="font-size:85%"></td><td style="padding-left:8px; text-align: center;">37.1%</td></tr><tr><td style="text-align:center"><b><a href="/wiki/1980_United_States_Census" class="mw-redirect" title="1980 United States Census">1980</a></b></td><td style="padding-left:8px;">9,746,324</td><td style="font-size:85%"></td><td style="padding-left:8px; text-align: center;">43.6%</td></tr><tr><td style="text-align:center"><b><a href="/wiki/1990_United_States_Census" class="mw-redirect" title="1990 United States Census">1990</a></b></td><td style="padding-left:8px;">12,937,926</td><td style="font-size:85%"></td><td style="padding-left:8px; text-align: center;">32.7%</td></tr><tr><td style="text-align:center"><b><a href="/wiki/2000_United_States_Census" class="mw-redirect" title="2000 United States Census">2000</a></b></td><td style="padding-left:8px;">15,982,378</td><td style="font-size:85%"></td><td style="padding-left:8px; text-align: center;">23.5%</td></tr><tr><td style="text-align:center"><b><a href="/wiki/2010_United_States_Census" class="mw-redirect" title="2010 United States Census">2010</a></b></td><td style="padding-left:8px;">18,801,310</td><td style="font-size:85%"></td><td style="padding-left:8px; text-align: center;">17.6%</td></tr><tr><td style="text-align:center"><b>2019 (est.)</b></td><td style="padding-left:0px;">21,477,737</td><td style="font-size:85%"></td><td style="padding-left:8px; text-align: center;">14.2%</td></tr><tr><td colspan="4" style="border-top:1px solid black; font-size:85%; text-align:center">Sources: 1910–2010<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup><br />2018 Estimate<sup id="cite_ref-CensusACS2018_2-0" class="reference"><a href="#cite_note-CensusACS2018-2">&#91;2&#93;</a></sup></td></tr>
+</tbody></table>
+<p><a href="/wiki/Florida" title="Florida">Florida</a> is the third-most populous <a href="/wiki/U.S._state" title="U.S. state">state</a> in the <a href="/wiki/United_States" title="United States">United States</a>. Its residents include people from a wide variety of <a href="/wiki/Ethnic" class="mw-redirect" title="Ethnic">ethnic</a>, <a href="/wiki/Race_(classification_of_human_beings)" class="mw-redirect" title="Race (classification of human beings)">racial</a>, national and <a href="/wiki/Religious" class="mw-redirect" title="Religious">religious</a> backgrounds.  The state has attracted immigrants, particularly from Latin America.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup> Florida's majority <a href="/wiki/Ethnic" class="mw-redirect" title="Ethnic">ethnic</a> group are <a href="/wiki/European_Americans" title="European Americans">European Americans</a>, with approximately 65% of the population identifying as <a href="/wiki/White_people" title="White people">White</a>. National ethnic communities in the state include <a href="/wiki/Cubans" title="Cubans">Cubans</a>, who migrated <i>en masse</i> following the revolution in mid-century. They have been joined by other immigrants from Latin America, and Spanish is spoken by more than 20% of the state's population, with high usage especially in the <a href="/wiki/Miami-Dade_County" class="mw-redirect" title="Miami-Dade County">Miami-Dade County</a> area.
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Population"><span class="tocnumber">1</span> <span class="toctext">Population</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Net_domestic_migration"><span class="tocnumber">1.1</span> <span class="toctext">Net domestic migration</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-3"><a href="#Race/Ethnicity"><span class="tocnumber">2</span> <span class="toctext">Race/Ethnicity</span></a>
+<ul>
+<li class="toclevel-2 tocsection-4"><a href="#2010_census"><span class="tocnumber">2.1</span> <span class="toctext">2010 census</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#2018_American_Community_Survey"><span class="tocnumber">2.2</span> <span class="toctext">2018 American Community Survey</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-6"><a href="#Birth_data"><span class="tocnumber">3</span> <span class="toctext">Birth data</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Languages"><span class="tocnumber">4</span> <span class="toctext">Languages</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Religion"><span class="tocnumber">5</span> <span class="toctext">Religion</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#Veterans"><span class="tocnumber">6</span> <span class="toctext">Veterans</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#Migration"><span class="tocnumber">7</span> <span class="toctext">Migration</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#References"><span class="tocnumber">8</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Population">Population</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Demographics_of_Florida&amp;action=edit&amp;section=1" title="Edit section: Population">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>With a population of 18.8 million according to the 2010 census, Florida is the most populous state in the <a href="/wiki/Southeastern_United_States" title="Southeastern United States">Southeastern United States</a>, and the second-most populous state in the South behind <a href="/wiki/Texas" title="Texas">Texas</a>. Within the United States, it contains the highest percentage of people over 65 (17.3%), and the 8th fewest people under 18 (21.9%).<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup>
+</p>
+<div class="thumb tleft"><div class="thumbinner" style="width:277px;"><a href="/wiki/File:Florida_population_map.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/61/Florida_population_map.png/275px-Florida_population_map.png" decoding="async" width="275" height="275" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/61/Florida_population_map.png/413px-Florida_population_map.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/61/Florida_population_map.png/550px-Florida_population_map.png 2x" data-file-width="600" data-file-height="600" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Florida_population_map.png" class="internal" title="Enlarge"></a></div>Florida population density map</div></div></div>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:Florida_ancestry_map.gif" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Florida_ancestry_map.gif/220px-Florida_ancestry_map.gif" decoding="async" width="220" height="131" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Florida_ancestry_map.gif/330px-Florida_ancestry_map.gif 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Florida_ancestry_map.gif/440px-Florida_ancestry_map.gif 2x" data-file-width="968" data-file-height="578" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Florida_ancestry_map.gif" class="internal" title="Enlarge"></a></div>Florida ancestry map</div></div></div>
+<div class="center"><div class="thumb tnone"><div class="thumbinner" style="width:277px;"><a href="/wiki/File:Floridamap2.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Floridamap2.png/275px-Floridamap2.png" decoding="async" width="275" height="260" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Floridamap2.png/413px-Floridamap2.png 1.5x, //upload.wikimedia.org/wikipedia/commons/4/4c/Floridamap2.png 2x" data-file-width="491" data-file-height="464" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Floridamap2.png" class="internal" title="Enlarge"></a></div>Florida's metropolitan areas and major cities.</div></div></div></div>
+<p><br />
+</p>
+<h3><span class="mw-headline" id="Net_domestic_migration">Net domestic migration</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Demographics_of_Florida&amp;action=edit&amp;section=2" title="Edit section: Net domestic migration">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="wikitable sortable">
+<tbody><tr>
+<th>Year<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup>
+</th>
+<th>In-migrants
+</th>
+<th>Out-migrants
+</th>
+<th>Net migration
+</th></tr>
+<tr>
+<td>2010
+</td>
+<td>482,889
+</td>
+<td>427,853
+</td>
+<td>55,036
+</td></tr>
+<tr>
+<td>2011
+</td>
+<td>498,597
+</td>
+<td>437,202
+</td>
+<td>61,395
+</td></tr>
+<tr>
+<td>2012
+</td>
+<td>537,148
+</td>
+<td>428,325
+</td>
+<td>108,823
+</td></tr>
+<tr>
+<td>2013
+</td>
+<td>529,406
+</td>
+<td>423,995
+</td>
+<td>105,411
+</td></tr>
+<tr>
+<td>2014
+</td>
+<td>546,501
+</td>
+<td>437,516
+</td>
+<td>108,985
+</td></tr>
+<tr>
+<td>2015
+</td>
+<td>584,938
+</td>
+<td>445,320
+</td>
+<td>139,618
+</td></tr>
+<tr>
+<td>2016
+</td>
+<td>605,018
+</td>
+<td>433,452
+</td>
+<td>171,566
+</td></tr>
+<tr>
+<td>2017
+</td>
+<td>566,476
+</td>
+<td>447,586
+</td>
+<td>118,890
+</td></tr>
+<tr>
+<td>2018
+</td>
+<td>587,261
+</td>
+<td>470,977
+</td>
+<td>116,284
+</td></tr></tbody></table>
+<h2><span id="Race.2FEthnicity"></span><span class="mw-headline" id="Race/Ethnicity">Race/Ethnicity</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Demographics_of_Florida&amp;action=edit&amp;section=3" title="Edit section: Race/Ethnicity">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="2010_census">2010 census</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Demographics_of_Florida&amp;action=edit&amp;section=4" title="Edit section: 2010 census">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>According to the 2010 census, the racial distributions are as follows; 77.3% <a href="/wiki/White_people" title="White people">White</a> (53.5% Non-Hispanic White), 16.9% <a href="/wiki/African_American" class="mw-redirect" title="African American">African American</a> (includes Afro-Caribbeans), 2.9% <a href="/wiki/Asian_American" class="mw-redirect" title="Asian American">Asian American</a>, and 0.5% <a href="/wiki/Native_Americans_in_the_United_States" title="Native Americans in the United States">Native American</a>. 25.6% of the population are <a href="/wiki/Hispanics" class="mw-redirect" title="Hispanics">Hispanics</a> or Latino (of any race). Florida has one of the largest African-American populations in the country, and has the second-highest Latino population on the East Coast outside of <a href="/wiki/New_York_(state)" title="New York (state)">New York</a> state. Its ethnic Asian population has grown rapidly since the late 1990s; the majority are <a href="/wiki/South_Asian_Americans" title="South Asian Americans">South Asians</a>, <a href="/wiki/Filipino_American" class="mw-redirect" title="Filipino American">Filipinos</a>,  <a href="/wiki/Vietnamese_Americans" title="Vietnamese Americans">Vietnamese</a>,  <a href="/wiki/Chinese_Americans" title="Chinese Americans">ethnic Chinese</a>. The state has some federally recognized American Indian tribes, such as the <a href="/wiki/Seminole" title="Seminole">Seminoles</a> in the southeastern part of the state.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">&#91;6&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="2018_American_Community_Survey">2018 American Community Survey</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Demographics_of_Florida&amp;action=edit&amp;section=5" title="Edit section: 2018 American Community Survey">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="PieChartTemplate thumb tleft"><div class="thumbinner" style="width:202px">
+<div style="background-color:white;margin:auto;position:relative;width:200px;height:200px;overflow:hidden;border-radius:100px;border:1px solid black">
+<div style="border:solid transparent;position:absolute;width:100px;line-height:0;left:0; top:0; border-width:0 200px 200px 0; border-color:#64ECDF"></div><div style="border:solid transparent;position:absolute;width:100px;line-height:0;left:100px; top:100px; border-width:100px 0 0 546.5762635493px; border-left-color:#F0FF00"></div>
+<div style="position:absolute;line-height:0;border-style:solid;left:0;top:0;border-width:0 200px 100px 0;border-color:#F0FF00"></div>
+<div style="position:absolute;line-height:0;border-style:solid;left:0;top:0;border-width:0 100px 200px 0;border-color:#F0FF00"></div><div style="border:solid transparent;position:absolute;width:100px;line-height:0;left:100px; top:100px; border-width:100px 0 0 243.14800738686px; border-left-color:#E17720"></div>
+<div style="position:absolute;line-height:0;border-style:solid;left:0;top:0;border-width:0 200px 100px 0;border-color:#E17720"></div>
+<div style="position:absolute;line-height:0;border-style:solid;left:0;top:0;border-width:0 100px 200px 0;border-color:#E17720"></div><div style="border:solid transparent;position:absolute;width:100px;line-height:0;left:100px; top:100px; border-width:100px 0 0 240.56586570619px; border-left-color:#1A9"></div>
+<div style="position:absolute;line-height:0;border-style:solid;left:0;top:0;border-width:0 200px 100px 0;border-color:#1A9"></div>
+<div style="position:absolute;line-height:0;border-style:solid;left:0;top:0;border-width:0 100px 200px 0;border-color:#1A9"></div><div style="border:solid transparent;position:absolute;width:100px;line-height:0;left:100px; top:100px; border-width:100px 0 0 156.26948086357px; border-left-color:#FF33AC"></div>
+<div style="position:absolute;line-height:0;border-style:solid;left:0;top:0;border-width:0 200px 100px 0;border-color:#FF33AC"></div>
+<div style="position:absolute;line-height:0;border-style:solid;left:0;top:0;border-width:0 100px 200px 0;border-color:#FF33AC"></div><div style="border:solid transparent;position:absolute;width:100px;line-height:0;left:100px; top:100px; border-width:100px 0 0 150.37540563794px; border-left-color:#36A"></div>
+<div style="position:absolute;line-height:0;border-style:solid;left:0;top:0;border-width:0 200px 100px 0;border-color:#36A"></div>
+<div style="position:absolute;line-height:0;border-style:solid;left:0;top:0;border-width:0 100px 200px 0;border-color:#36A"></div><div style="border:solid transparent;position:absolute;width:100px;line-height:0;right:100px; top:100px; border-width:99.975820443698px 2.1989376092505px 0 0; border-top-color:#6A5"></div>
+<div style="position:absolute;line-height:0;border-style:solid;left:0;top:0;border-width:0 200px 100px 0;border-color:#6A5"></div>
+</div>
+<div class="thumbcaption">
+<p>Racial Makeup of Florida (2018)<sup id="cite_ref-CensusACS2018_2-1" class="reference"><a href="#cite_note-CensusACS2018-2">&#91;2&#93;</a></sup>
+</p>
+<style data-mw-deduplicate="TemplateStyles:r981673959">.mw-parser-output .legend{page-break-inside:avoid;break-inside:avoid-column}.mw-parser-output .legend-color{display:inline-block;min-width:1.25em;height:1.25em;line-height:1.25;margin:1px 0;text-align:center;border:1px solid black;background-color:transparent;color:black}.mw-parser-output .legend-text{}</style><div class="legend"><span class="legend-color" style="background-color:#6A5; color:black;">&#160;</span>&#160;White alone (74.65%)</div><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r981673959"/><div class="legend"><span class="legend-color" style="background-color:#36A; color:white;">&#160;</span>&#160;Black alone (16.01%)</div><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r981673959"/><div class="legend"><span class="legend-color" style="background-color:#FF33AC; color:black;">&#160;</span>&#160;Native American alone (0.28%)</div><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r981673959"/><div class="legend"><span class="legend-color" style="background-color:#1A9; color:black;">&#160;</span>&#160;Asian alone (2.79%)</div><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r981673959"/><div class="legend"><span class="legend-color" style="background-color:#E17720; color:black;">&#160;</span>&#160;Pacific Islander alone (0.06%)</div><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r981673959"/><div class="legend"><span class="legend-color" style="background-color:#F0FF00; color:black;">&#160;</span>&#160;Some other race alone (3.33%)</div><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r981673959"/><div class="legend"><span class="legend-color" style="background-color:#64ECDF; color:black;">&#160;</span>&#160;Two or more races (2.88%)</div>
+</div>
+</div></div>
+<div class="PieChartTemplate thumb tright"><div class="thumbinner" style="width:202px">
+<div style="background-color:white;margin:auto;position:relative;width:200px;height:200px;overflow:hidden;border-radius:100px;border:1px solid black">
+<div style="border:solid transparent;position:absolute;width:100px;line-height:0;left:100px; top:100px; border-width:100px 0 0 159154.92214786px; border-left-color:#9400D3"></div>
+<div style="position:absolute;line-height:0;border-style:solid;left:0;top:0;border-width:0 200px 100px 0;border-color:#9400D3"></div>
+<div style="position:absolute;line-height:0;border-style:solid;left:0;top:0;border-width:0 100px 200px 0;border-color:#9400D3"></div><div style="border:solid transparent;position:absolute;width:100px;line-height:0;right:100px; top:100px; border-width:99.748055906983px 7.0940357186425px 0 0; border-top-color:#64ECDF"></div>
+<div style="position:absolute;line-height:0;border-style:solid;left:0;top:0;border-width:0 200px 100px 0;border-color:#64ECDF"></div><div style="border:solid transparent;position:absolute;width:100px;line-height:0;right:100px; top:100px; border-width:98.072394257218px 19.53984351669px 0 0; border-top-color:#F0FF00"></div>
+<div style="position:absolute;line-height:0;border-style:solid;left:0;top:0;border-width:0 200px 100px 0;border-color:#F0FF00"></div><div style="border:solid transparent;position:absolute;width:100px;line-height:0;right:100px; top:100px; border-width:97.57795058686px 21.875638488241px 0 0; border-top-color:#E17720"></div>
+<div style="position:absolute;line-height:0;border-style:solid;left:0;top:0;border-width:0 200px 100px 0;border-color:#E17720"></div><div style="border:solid transparent;position:absolute;width:100px;line-height:0;right:100px; top:100px; border-width:97.508744827251px 22.182080204843px 0 0; border-top-color:#1A9"></div>
+<div style="position:absolute;line-height:0;border-style:solid;left:0;top:0;border-width:0 200px 100px 0;border-color:#1A9"></div><div style="border:solid transparent;position:absolute;width:100px;line-height:0;right:100px; top:100px; border-width:92.315655036448px 38.442422337718px 0 0; border-top-color:#FF33AC"></div>
+<div style="position:absolute;line-height:0;border-style:solid;left:0;top:0;border-width:0 200px 100px 0;border-color:#FF33AC"></div><div style="border:solid transparent;position:absolute;width:100px;line-height:0;right:100px; top:100px; border-width:91.8501600961px 39.541725940084px 0 0; border-top-color:#36A"></div>
+<div style="position:absolute;line-height:0;border-style:solid;left:0;top:0;border-width:0 200px 100px 0;border-color:#36A"></div><div style="border:solid transparent;position:absolute;width:100px;line-height:0;right:100px; top:100px; border-width:20.340251912504px 97.909520232385px 0 0; border-top-color:#6A5"></div>
+<div style="position:absolute;line-height:0;border-style:solid;left:0;top:0;border-width:0 200px 100px 0;border-color:#6A5"></div>
+</div>
+<div class="thumbcaption">
+<p>Racial/Ethnic Makeup of Florida excluding Hispanics from Racial Categories (2018)<sup id="cite_ref-CensusACS2018_2-2" class="reference"><a href="#cite_note-CensusACS2018-2">&#91;2&#93;</a></sup><br /><i>NH=Non-Hispanic</i>
+</p>
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r981673959"/><div class="legend"><span class="legend-color" style="background-color:#6A5; color:black;">&#160;</span>&#160;White NH (53.26%)</div><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r981673959"/><div class="legend"><span class="legend-color" style="background-color:#36A; color:white;">&#160;</span>&#160;Black NH (15.27%)</div><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r981673959"/><div class="legend"><span class="legend-color" style="background-color:#FF33AC; color:black;">&#160;</span>&#160;Native American NH (0.19%)</div><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r981673959"/><div class="legend"><span class="legend-color" style="background-color:#1A9; color:black;">&#160;</span>&#160;Asian NH (2.72%)</div><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r981673959"/><div class="legend"><span class="legend-color" style="background-color:#E17720; color:black;">&#160;</span>&#160;Pacific Islander NH (0.05%)</div><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r981673959"/><div class="legend"><span class="legend-color" style="background-color:#F0FF00; color:black;">&#160;</span>&#160;Other race NH (0.38%)</div><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r981673959"/><div class="legend"><span class="legend-color" style="background-color:#64ECDF; color:black;">&#160;</span>&#160;Two or more races NH (2.00%)</div><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r981673959"/><div class="legend"><span class="legend-color" style="background-color:#9400D3; color:white;">&#160;</span>&#160;Hispanic Any Race (26.12%)</div>
+</div>
+</div></div>
+<div class="PieChartTemplate thumb tright"><div class="thumbinner" style="width:202px">
+<div style="background-color:white;margin:auto;position:relative;width:200px;height:200px;overflow:hidden;border-radius:100px;border:1px solid black">
+<div style="border:solid transparent;position:absolute;width:100px;line-height:0;left:100px; top:100px; border-width:100px 0 0 159154.92214786px; border-left-color:#64ECDF"></div>
+<div style="position:absolute;line-height:0;border-style:solid;left:0;top:0;border-width:0 200px 100px 0;border-color:#64ECDF"></div>
+<div style="position:absolute;line-height:0;border-style:solid;left:0;top:0;border-width:0 100px 200px 0;border-color:#64ECDF"></div><div style="border:solid transparent;position:absolute;width:100px;line-height:0;left:100px; top:100px; border-width:100px 0 0 465.19056201203px; border-left-color:#F0FF00"></div>
+<div style="position:absolute;line-height:0;border-style:solid;left:0;top:0;border-width:0 200px 100px 0;border-color:#F0FF00"></div>
+<div style="position:absolute;line-height:0;border-style:solid;left:0;top:0;border-width:0 100px 200px 0;border-color:#F0FF00"></div><div style="border:solid transparent;position:absolute;width:100px;line-height:0;left:100px; top:100px; border-width:100px 0 0 76.168553254943px; border-left-color:#E17720"></div>
+<div style="position:absolute;line-height:0;border-style:solid;left:0;top:0;border-width:0 200px 100px 0;border-color:#E17720"></div>
+<div style="position:absolute;line-height:0;border-style:solid;left:0;top:0;border-width:0 100px 200px 0;border-color:#E17720"></div><div style="border:solid transparent;position:absolute;width:100px;line-height:0;left:100px; top:100px; border-width:100px 0 0 75.57454800484px; border-left-color:#1A9"></div>
+<div style="position:absolute;line-height:0;border-style:solid;left:0;top:0;border-width:0 200px 100px 0;border-color:#1A9"></div>
+<div style="position:absolute;line-height:0;border-style:solid;left:0;top:0;border-width:0 100px 200px 0;border-color:#1A9"></div><div style="border:solid transparent;position:absolute;width:100px;line-height:0;left:100px; top:100px; border-width:100px 0 0 73.231828692719px; border-left-color:#FF33AC"></div>
+<div style="position:absolute;line-height:0;border-style:solid;left:0;top:0;border-width:0 200px 100px 0;border-color:#FF33AC"></div>
+<div style="position:absolute;line-height:0;border-style:solid;left:0;top:0;border-width:0 100px 200px 0;border-color:#FF33AC"></div><div style="border:solid transparent;position:absolute;width:100px;line-height:0;left:100px; top:100px; border-width:100px 0 0 70.0936080941px; border-left-color:#36A"></div>
+<div style="position:absolute;line-height:0;border-style:solid;left:0;top:0;border-width:0 200px 100px 0;border-color:#36A"></div>
+<div style="position:absolute;line-height:0;border-style:solid;left:0;top:0;border-width:0 100px 200px 0;border-color:#36A"></div><div style="border:solid transparent;position:absolute;width:100px;line-height:0;left:100px; top:100px; border-width:100px 0 0 46.21495911129px; border-left-color:#6A5"></div>
+<div style="position:absolute;line-height:0;border-style:solid;left:0;top:0;border-width:0 200px 100px 0;border-color:#6A5"></div>
+<div style="position:absolute;line-height:0;border-style:solid;left:0;top:0;border-width:0 100px 200px 0;border-color:#6A5"></div>
+</div>
+<div class="thumbcaption">
+<p>Racial Makeup of Hispanics in Florida (2018)<sup id="cite_ref-CensusACS2018_2-3" class="reference"><a href="#cite_note-CensusACS2018-2">&#91;2&#93;</a></sup>
+</p>
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r981673959"/><div class="legend"><span class="legend-color" style="background-color:#6A5; color:black;">&#160;</span>&#160;White alone (81.89%)</div><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r981673959"/><div class="legend"><span class="legend-color" style="background-color:#36A; color:white;">&#160;</span>&#160;Black alone (2.84%)</div><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r981673959"/><div class="legend"><span class="legend-color" style="background-color:#FF33AC; color:black;">&#160;</span>&#160;Native American alone (0.33%)</div><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r981673959"/><div class="legend"><span class="legend-color" style="background-color:#1A9; color:black;">&#160;</span>&#160;Asian alone (0.24%)</div><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r981673959"/><div class="legend"><span class="legend-color" style="background-color:#E17720; color:black;">&#160;</span>&#160;Pacific Islander alone (0.06%)</div><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r981673959"/><div class="legend"><span class="legend-color" style="background-color:#F0FF00; color:black;">&#160;</span>&#160;Other race alone (11.27%)</div><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r981673959"/><div class="legend"><span class="legend-color" style="background-color:#64ECDF; color:black;">&#160;</span>&#160;Two or more races (3.36%)</div>
+</div>
+</div></div>
+<p>According to the 2018 US Census Bureau estimates, Florida's population was 74.7% <a href="/wiki/White_American" class="mw-redirect" title="White American">White</a> (53.3% Non-Hispanic White), 16.0% Black or <a href="/wiki/African_American" class="mw-redirect" title="African American">African American</a>, 2.8% <a href="/wiki/Asian_American" class="mw-redirect" title="Asian American">Asian</a>, 0.3% <a href="/wiki/Native_Americans_in_the_United_States" title="Native Americans in the United States">Native American</a> and <a href="/wiki/Alaskan_Native" class="mw-redirect" title="Alaskan Native">Alaskan Native</a>, 0.1% <a href="/wiki/Pacific_Islander" title="Pacific Islander">Pacific Islander</a>, 3.3% Some Other Race, and 2.9% from <a href="/wiki/Multiracial_American" class="mw-redirect" title="Multiracial American">two or more races</a>.<sup id="cite_ref-CensusACS2018_2-4" class="reference"><a href="#cite_note-CensusACS2018-2">&#91;2&#93;</a></sup> The White population continues to remain the largest racial category as Hispanics in Florida primarily identify as White (81.9%) with others identifying as Some Other Race (11.3%), Multiracial (3.4%), Black (2.8%), American Indian and Alaskan Native (0.3%), Asian (0.1%), and Hawaiian and Pacific Islander (0.1%).<sup id="cite_ref-CensusACS2018_2-5" class="reference"><a href="#cite_note-CensusACS2018-2">&#91;2&#93;</a></sup> By ethnicity, 26.1% of the total population is <a href="/wiki/Hispanic_and_Latino_Americans" title="Hispanic and Latino Americans">Hispanic-Latino</a> (of any race) and 73.9% is Non-Hispanic (of any race). If treated as a separate category, Hispanics are the largest minority group in group in Florida.<sup id="cite_ref-CensusACS2018_2-6" class="reference"><a href="#cite_note-CensusACS2018-2">&#91;2&#93;</a></sup>
+</p><p>As in other Deep South states settled largely in the 19th century, the vast majority have British Isles ancestry.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">&#91;7&#93;</a></sup><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
+</p>
+<h2><span class="mw-headline" id="Birth_data">Birth data</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Demographics_of_Florida&amp;action=edit&amp;section=6" title="Edit section: Birth data">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><i>Note: Prior to 2016, births in the table exceed 100% because some Hispanics were counted both by their ethnicity and by their race, giving a higher overall number. Since 2016, data for births of <a href="/wiki/White_Hispanic_and_Latino_Americans" title="White Hispanic and Latino Americans">White Hispanic</a> origin are not collected, but included in one "Hispanic" group; persons of Hispanic origin may be of any race.</i>
+</p>
+<table class="wikitable">
+<caption>Live Births by Single Race/Ethnicity of Mother
+</caption>
+<tbody><tr>
+<th><a href="/wiki/Race_and_ethnicity_in_the_United_States_Census" title="Race and ethnicity in the United States Census">Race</a>
+</th>
+<th>2013<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">&#91;8&#93;</a></sup>
+</th>
+<th>2014<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">&#91;9&#93;</a></sup>
+</th>
+<th>2015<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">&#91;10&#93;</a></sup>
+</th>
+<th>2016<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">&#91;11&#93;</a></sup>
+</th>
+<th>2017<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">&#91;12&#93;</a></sup>
+</th>
+<th>2018<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">&#91;13&#93;</a></sup>
+</th></tr>
+<tr>
+<td><a href="/wiki/White_Americans" title="White Americans">White</a>:
+</td>
+<td>154,791 (71.8%)
+</td>
+<td>159,035 (72.3%)
+</td>
+<td>162,594 (72.5%)
+</td>
+<td>...
+</td>
+<td>...
+</td>
+<td>...
+</td></tr>
+<tr>
+<td>&gt; <a href="/wiki/Non-Hispanic_whites" title="Non-Hispanic whites">Non-Hispanic White</a>
+</td>
+<td>98,586 (45.7%)
+</td>
+<td>100,837 (45.8%)
+</td>
+<td>102,549 (45.7%)
+</td>
+<td>99,344 (44.1%)
+</td>
+<td>96,280 (43.1%)
+</td>
+<td>95,868 (43.2%)
+</td></tr>
+<tr>
+<td><a href="/wiki/African_Americans" title="African Americans">Black</a>
+</td>
+<td>52,959 (24.6%)
+</td>
+<td>53,148 (24.1%)
+</td>
+<td>53,699 (23.9%)
+</td>
+<td>48,928 (21.7%)
+</td>
+<td>49,428 (22.1%)
+</td>
+<td>48,174 (21.7%)
+</td></tr>
+<tr>
+<td><a href="/wiki/Asian_Americans" title="Asian Americans">Asian</a>
+</td>
+<td>7,265 (3.4%)
+</td>
+<td>7,402 (3.4%)
+</td>
+<td>7,603 (3.4%)
+</td>
+<td>7,178 (3.2%)
+</td>
+<td>7,015 (3.1%)
+</td>
+<td>6,996 (3.2%)
+</td></tr>
+<tr>
+<td><a href="/wiki/Native_Americans_in_the_United_States" title="Native Americans in the United States">American Indian</a>
+</td>
+<td>392 (0.2%)
+</td>
+<td>406 (0.2%)
+</td>
+<td>373 (0.2%)
+</td>
+<td>237 (0.1%)
+</td>
+<td>429 (0.2%)
+</td>
+<td>413 (0.2%)
+</td></tr>
+<tr>
+<td><i><a href="/wiki/Hispanic_and_Latino_Americans" title="Hispanic and Latino Americans">Hispanic</a></i> (of any race)
+</td>
+<td><i>59,206</i> (27.5%)
+</td>
+<td><i>61,849</i> (28.1%)
+</td>
+<td><i>64,078</i> (28.6%)
+</td>
+<td><i>65,895</i> (29.3%)
+</td>
+<td><i>67,049</i> (30.0%)
+</td>
+<td><i>67,201</i> (30.3%)
+</td></tr>
+<tr>
+<td><b>Total Florida</b>
+</td>
+<td><b>215,407</b> (100%)
+</td>
+<td><b>219,991</b> (100%)
+</td>
+<td><b>224,269</b> (100%)
+</td>
+<td><b>225,022</b> (100%)
+</td>
+<td><b>223,630</b> (100%)
+</td>
+<td><b>221,542</b> (100%)
+</td></tr></tbody></table>
+<h2><span class="mw-headline" id="Languages">Languages</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Demographics_of_Florida&amp;action=edit&amp;section=7" title="Edit section: Languages">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="wikitable sortable" style="margin-right:1em; float:left;">
+<caption><b>Top Languages in Florida</b>
+</caption>
+<tbody><tr>
+<th>Language</th>
+<th>Percent of <br /> population <br /> (2010)<sup id="cite_ref-MLA_14-0" class="reference"><a href="#cite_note-MLA-14">&#91;14&#93;</a></sup>
+</th></tr>
+<tr>
+<td><a href="/wiki/English_language" title="English language">English</a></td>
+<td>73.36%
+</td></tr>
+<tr>
+<td><a href="/wiki/Spanish_language" title="Spanish language">Spanish</a></td>
+<td>19.54%
+</td></tr>
+<tr>
+<td><a href="/wiki/French-based_creole_languages" title="French-based creole languages">French Creole</a> (including <a href="/wiki/Haitian_Creole" title="Haitian Creole">Haitian</a> and <a href="/wiki/Antillean_Creole" title="Antillean Creole">Antillean Creoles</a>)</td>
+<td>1.84%
+</td></tr>
+<tr>
+<td><a href="/wiki/French_language" title="French language">French</a></td>
+<td>0.60%
+</td></tr>
+<tr>
+<td><a href="/wiki/Portuguese_language" title="Portuguese language">Portuguese</a></td>
+<td>0.50%
+</td></tr>
+<tr>
+<td><a href="/wiki/German_language" title="German language">German</a></td>
+<td>0.42%
+</td></tr>
+<tr>
+<td><a href="/wiki/Tagalog_language" title="Tagalog language">Tagalog</a>, <br /> <a href="/wiki/Vietnamese_language" title="Vietnamese language">Vietnamese</a>, <br /> <a href="/wiki/Italian_language" title="Italian language">Italian</a> (tied)</td>
+<td>0.31%
+</td></tr>
+<tr>
+<td><a href="/wiki/Arabic_language" class="mw-redirect" title="Arabic language">Arabic</a></td>
+<td>0.22%
+</td></tr>
+<tr>
+<td><a href="/wiki/Chinese_language" title="Chinese language">Chinese</a></td>
+<td>0.20%
+</td></tr>
+<tr>
+<td><a href="/wiki/Russian_language" title="Russian language">Russian</a></td>
+<td>0.18%
+</td></tr>
+<tr>
+<td><a href="/wiki/Polish_language" title="Polish language">Polish</a></td>
+<td>0.14%
+</td></tr></tbody></table>
+<p>As of 2010<sup class="plainlinks noexcerpt noprint asof-tag update" style="display:none;"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Demographics_of_Florida&amp;action=edit">&#91;update&#93;</a></sup>, 73.36% of Florida residents age 5 and older spoke <a href="/wiki/English_language" title="English language">English</a> at home as a <a href="/wiki/Primary_language" class="mw-redirect" title="Primary language">primary language</a>, while 19.54% spoke <a href="/wiki/Spanish_language" title="Spanish language">Spanish</a>, 1.84% <a href="/wiki/French-based_creole_languages" title="French-based creole languages">French Creole</a> (mostly <a href="/wiki/Haitian_Creole" title="Haitian Creole">Haitian Creole</a>), 0.60% <a href="/wiki/French_language" title="French language">French</a> and 0.50% <a href="/wiki/Portuguese_language" title="Portuguese language">Portuguese</a>. In total, 26.64% of Florida's population age 5 and older spoke a <a href="/wiki/Mother_language" class="mw-redirect" title="Mother language">mother language</a> other than English.<sup id="cite_ref-MLA_14-1" class="reference"><a href="#cite_note-MLA-14">&#91;14&#93;</a></sup>
+</p><p>Florida's <a href="/wiki/Public_education" class="mw-redirect" title="Public education">public education</a> system identified more than 200 first languages other than English spoken in the homes of students.<sup id="cite_ref-MacDonald_15-0" class="reference"><a href="#cite_note-MacDonald-15">&#91;15&#93;</a></sup> In 1990, the <a href="/wiki/League_of_United_Latin_American_Citizens" title="League of United Latin American Citizens">League of United Latin American Citizens (LULAC)</a> settled a <a href="/wiki/Class_action_lawsuit" class="mw-redirect" title="Class action lawsuit">class action lawsuit</a> against the state <a href="/wiki/Florida_Department_of_Education" title="Florida Department of Education">Florida Department of Education</a> with a consent decree that required educators to be trained in teaching <a href="/wiki/English_language_learning_and_teaching" class="mw-redirect" title="English language learning and teaching">English for Speakers of Other Languages</a> (ESOL).<sup id="cite_ref-consentdecree_16-0" class="reference"><a href="#cite_note-consentdecree-16">&#91;16&#93;</a></sup>
+</p><p><a href="/wiki/Florida_Constitution#Article_II:_&quot;General_Provisions&quot;" class="mw-redirect" title="Florida Constitution">Article II, Section 9</a>, of the <a href="/wiki/Florida_Constitution" class="mw-redirect" title="Florida Constitution">Florida Constitution</a> provides that "English is the <a href="/wiki/Official_language" title="Official language">official language</a> of the State of Florida." This provision was adopted in 1988 by a vote following an Initiative <a href="/wiki/Petition" title="Petition">Petition</a>.
+</p><p>A <a href="/wiki/North_American_English_regional_phonology#Miami_accent" title="North American English regional phonology">Miami accent</a> has developed among persons born and/or raised in and around <a href="/wiki/Miami-Dade_County" class="mw-redirect" title="Miami-Dade County">Miami-Dade County</a> and a few other parts of <a href="/wiki/Miami_metropolitan_area" title="Miami metropolitan area">South Florida</a>.<sup id="cite_ref-17" class="reference"><a href="#cite_note-17">&#91;17&#93;</a></sup> It is more prominent among <a href="/wiki/Hispanics" class="mw-redirect" title="Hispanics">Hispanics</a> (especially <a href="/wiki/Cuban_American" class="mw-redirect" title="Cuban American">Cuban Americans</a> and other <a href="/wiki/Hispanic_and_Latino_Americans" title="Hispanic and Latino Americans">Latino</a> groups, influenced by the Spanish language).<sup id="cite_ref-18" class="reference"><a href="#cite_note-18">&#91;18&#93;</a></sup><sup id="cite_ref-19" class="reference"><a href="#cite_note-19">&#91;19&#93;</a></sup>
+</p>
+<div style="clear:both;"></div>
+<h2><span class="mw-headline" id="Religion">Religion</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Demographics_of_Florida&amp;action=edit&amp;section=8" title="Edit section: Religion">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="PieChartTemplate thumb tright"><div class="thumbinner" style="width:202px">
+<div style="background-color:white;margin:auto;position:relative;width:200px;height:200px;overflow:hidden;border-radius:100px;border:1px solid black">
+<div style="border:solid transparent;position:absolute;width:100px;line-height:0;left:0; top:0; border-width:0 200px 200px 0; border-color:Chartreuse"></div><div style="border:solid transparent;position:absolute;width:100px;line-height:0;left:100px; top:100px; border-width:100px 0 0 524.21835811132px; border-left-color:Blue"></div>
+<div style="position:absolute;line-height:0;border-style:solid;left:0;top:0;border-width:0 200px 100px 0;border-color:Blue"></div>
+<div style="position:absolute;line-height:0;border-style:solid;left:0;top:0;border-width:0 100px 200px 0;border-color:Blue"></div><div style="border:solid transparent;position:absolute;width:100px;line-height:0;left:100px; top:100px; border-width:100px 0 0 252.57116894473px; border-left-color:Honeydew"></div>
+<div style="position:absolute;line-height:0;border-style:solid;left:0;top:0;border-width:0 200px 100px 0;border-color:Honeydew"></div>
+<div style="position:absolute;line-height:0;border-style:solid;left:0;top:0;border-width:0 100px 200px 0;border-color:Honeydew"></div><div style="border:solid transparent;position:absolute;width:100px;line-height:0;right:100px; top:100px; border-width:95.105651629515px 30.901699437495px 0 0; border-top-color:Pink"></div>
+<div style="position:absolute;line-height:0;border-style:solid;left:0;top:0;border-width:0 200px 100px 0;border-color:Pink"></div><div style="border:solid transparent;position:absolute;width:100px;line-height:0;right:100px; top:100px; border-width:92.977648588825px 36.812455268468px 0 0; border-top-color:Aquamarine"></div>
+<div style="position:absolute;line-height:0;border-style:solid;left:0;top:0;border-width:0 200px 100px 0;border-color:Aquamarine"></div><div style="border:solid transparent;position:absolute;width:100px;line-height:0;right:100px; top:100px; border-width:90.482705246602px 42.577929156507px 0 0; border-top-color:DeepSkyBlue"></div>
+<div style="position:absolute;line-height:0;border-style:solid;left:0;top:0;border-width:0 200px 100px 0;border-color:DeepSkyBlue"></div><div style="border:solid transparent;position:absolute;width:100px;line-height:0;right:100px; top:100px; border-width:87.630668004386px 48.175367410172px 0 0; border-top-color:#d4213d"></div>
+<div style="position:absolute;line-height:0;border-style:solid;left:0;top:0;border-width:0 200px 100px 0;border-color:#d4213d"></div><div style="border:solid transparent;position:absolute;width:100px;line-height:0;right:100px; top:0; border-width:0 389.47428549299px 100px 0; border-right-color:DodgerBlue"></div>
+<div style="position:absolute;line-height:0;border-style:solid;right:0;top:0;border-width:0 100px 100px 0;border-color:DodgerBlue"></div>
+</div>
+<div class="thumbcaption">
+<p>Religion in Florida (2014)<sup id="cite_ref-Religion_20-0" class="reference"><a href="#cite_note-Religion-20">&#91;20&#93;</a></sup>
+</p>
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r981673959"/><div class="legend"><span class="legend-color" style="background-color:DodgerBlue; color:black;">&#160;</span>&#160;<a href="/wiki/Protestantism" title="Protestantism">Protestantism</a> (46%)</div><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r981673959"/><div class="legend"><span class="legend-color" style="background-color:#d4213d; color:white;">&#160;</span>&#160;<a href="/wiki/Roman_Catholicism" class="mw-redirect" title="Roman Catholicism">Roman Catholicism</a> (21%)</div><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r981673959"/><div class="legend"><span class="legend-color" style="background-color:DeepSkyBlue; color:black;">&#160;</span>&#160;<a href="/wiki/Mormonism" title="Mormonism">Mormonism</a> (1%)</div><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r981673959"/><div class="legend"><span class="legend-color" style="background-color:Aquamarine; color:black;">&#160;</span>&#160;<a href="/wiki/Jehovah%27s_Witnesses" title="Jehovah&#39;s Witnesses">Jehovah's Witnesses</a> (1%)</div><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r981673959"/><div class="legend"><span class="legend-color" style="background-color:Pink; color:black;">&#160;</span>&#160;Other Christian (1%)</div><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r981673959"/><div class="legend"><span class="legend-color" style="background-color:Honeydew; color:black;">&#160;</span>&#160;<a href="/wiki/Irreligious" class="mw-redirect" title="Irreligious">No religion</a> (24%)</div><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r981673959"/><div class="legend"><span class="legend-color" style="background-color:Blue; color:white;">&#160;</span>&#160;<a href="/wiki/Judaism" title="Judaism">Judaism</a> (3%)</div><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r981673959"/><div class="legend"><span class="legend-color" style="background-color:Chartreuse; color:black;">&#160;</span>&#160;Other religion (3%)</div>
+</div>
+</div></div>
+<p>Florida residents identify as mostly of various Protestant groups. Roman Catholics make up the single largest denomination in the state. Florida residents' current religious affiliations are shown in the table below:<sup id="cite_ref-Religion_20-1" class="reference"><a href="#cite_note-Religion-20">&#91;20&#93;</a></sup>
+</p>
+<ul><li><a href="/wiki/Christianity" title="Christianity">Christianity</a> 70%
+<ul><li><a href="/wiki/Protestantism" title="Protestantism">Protestantism</a> 46%
+<ul><li><a href="/wiki/Evangelical_Protestant" class="mw-redirect" title="Evangelical Protestant">Evangelical Protestant</a> 24%</li>
+<li><a href="/wiki/Mainline_Protestant" title="Mainline Protestant">Mainline Protestant</a> 14%</li>
+<li><a href="/wiki/Black_church" title="Black church">Historically Black Protestant</a> 8%</li></ul></li>
+<li><a href="/wiki/Catholicism" class="mw-redirect" title="Catholicism">Catholicism</a> 21%</li>
+<li><a href="/wiki/Mormonism" title="Mormonism">Mormonism</a> 1%</li>
+<li><a href="/wiki/Jehovah%27s_Witness" class="mw-redirect" title="Jehovah&#39;s Witness">Jehovah's Witness</a> 1%</li>
+<li>Other Christian 1%</li></ul></li>
+<li>Non-Christian Faiths 6%
+<ul><li><a href="/wiki/Judaism" title="Judaism">Judaism</a> 3%</li>
+<li>Other religion <span style="font-size:85%;">(e.g. <a href="/wiki/Islam" title="Islam">Islam</a>, <a href="/wiki/Hinduism" title="Hinduism">Hinduism</a>, <a href="/wiki/Buddhism" title="Buddhism">Buddhism</a>, <a href="/wiki/Sikhism" title="Sikhism">Sikhism</a>)</span> 3%</li></ul></li>
+<li>Unaffiliated 24%</li></ul>
+<h2><span class="mw-headline" id="Veterans">Veterans</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Demographics_of_Florida&amp;action=edit&amp;section=9" title="Edit section: Veterans">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>There were 1.6 million veterans in Florida in 2010, representing 8% of the total population.<sup id="cite_ref-21" class="reference"><a href="#cite_note-21">&#91;21&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Migration">Migration</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Demographics_of_Florida&amp;action=edit&amp;section=10" title="Edit section: Migration">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>In 2013, most net migrants come from 1) <a href="/wiki/New_York_(state)" title="New York (state)">New York</a>, 2) <a href="/wiki/New_Jersey" title="New Jersey">New Jersey</a>, 3) <a href="/wiki/Pennsylvania" title="Pennsylvania">Pennsylvania</a>, and 4) the <a href="/wiki/Midwestern_United_States" title="Midwestern United States">Midwestern United States</a>; emigration is higher from these same states. For example, about 50,000 moved to New York; but more than 50,000 people moved from New York to Florida.<sup id="cite_ref-22" class="reference"><a href="#cite_note-22">&#91;22&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Demographics_of_Florida&amp;action=edit&amp;section=11" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap mw-references-columns"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><style data-mw-deduplicate="TemplateStyles:r999302996">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}</style><cite id="CITEREFResident_Population_Data" class="citation web cs1">Resident Population Data. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20110721072426/http://2010.census.gov/2010census/data/apportionment-pop-text.php">"Resident Population Data&#160;– 2010 Census"</a>. 2010.census.gov. Archived from <a rel="nofollow" class="external text" href="http://2010.census.gov/2010census/data/apportionment-pop-text.php">the original</a> on July 21, 2011<span class="reference-accessdate">. Retrieved <span class="nowrap">November 4,</span> 2011</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Resident+Population+Data+%E2%80%93+2010+Census&amp;rft.pub=2010.census.gov&amp;rft.au=Resident+Population+Data&amp;rft_id=http%3A%2F%2F2010.census.gov%2F2010census%2Fdata%2Fapportionment-pop-text.php&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADemographics+of+Florida" class="Z3988"></span></span>
+</li>
+<li id="cite_note-CensusACS2018-2"><span class="mw-cite-backlink">^ <a href="#cite_ref-CensusACS2018_2-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-CensusACS2018_2-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-CensusACS2018_2-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-CensusACS2018_2-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-CensusACS2018_2-4"><sup><i><b>e</b></i></sup></a> <a href="#cite_ref-CensusACS2018_2-5"><sup><i><b>f</b></i></sup></a> <a href="#cite_ref-CensusACS2018_2-6"><sup><i><b>g</b></i></sup></a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://data.census.gov/cedsci/table?q=B03002&amp;tid=ACSDT1Y2018.B03002&amp;lastDisplayedRow=20&amp;hidePreview=true&amp;vintage=2018&amp;layer=county&amp;cid=B03002_001E&amp;y=2018&amp;table=B03002&amp;g=0400000US12">"B03002 HISPANIC OR LATINO ORIGIN BY RACE - Florida - 2018 American Community Survey 1-Year Estimates"</a>. <a href="/wiki/U.S._Census_Bureau" class="mw-redirect" title="U.S. Census Bureau">U.S. Census Bureau</a>. July 1, 2018<span class="reference-accessdate">. Retrieved <span class="nowrap">November 25,</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=B03002+HISPANIC+OR+LATINO+ORIGIN+BY+RACE+-+Florida+-+2018+American+Community+Survey+1-Year+Estimates&amp;rft.pub=U.S.+Census+Bureau&amp;rft.date=2018-07-01&amp;rft_id=https%3A%2F%2Fdata.census.gov%2Fcedsci%2Ftable%3Fq%3DB03002%26tid%3DACSDT1Y2018.B03002%26lastDisplayedRow%3D20%26hidePreview%3Dtrue%26vintage%3D2018%26layer%3Dcounty%26cid%3DB03002_001E%26y%3D2018%26table%3DB03002%26g%3D0400000US12&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADemographics+of+Florida" class="Z3988"></span></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20080330215527/http://www.npg.org/states/fl.htm">"State Population Facts - Florida"</a>. <i>npg.org</i>. Archived from <a rel="nofollow" class="external text" href="http://www.npg.org/states/fl.htm">the original</a> on March 30, 2008<span class="reference-accessdate">. Retrieved <span class="nowrap">April 2,</span> 2008</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=npg.org&amp;rft.atitle=State+Population+Facts+-+Florida&amp;rft_id=http%3A%2F%2Fwww.npg.org%2Fstates%2Ffl.htm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADemographics+of+Florida" class="Z3988"></span></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite id="CITEREFMichael_B._SauterDouglas_A._McIntyre2011" class="citation web cs1">Michael B. Sauter; Douglas A. McIntyre (May 10, 2011). <a rel="nofollow" class="external text" href="http://247wallst.com/2011/05/10/the-states-with-the-oldest-and-youngest-residents/3/">"The States With The Oldest And Youngest Residents"</a>. wallst.com.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=The+States+With+The+Oldest+And+Youngest+Residents&amp;rft.pub=wallst.com&amp;rft.date=2011-05-10&amp;rft.au=Michael+B.+Sauter&amp;rft.au=Douglas+A.+McIntyre&amp;rft_id=http%3A%2F%2F247wallst.com%2F2011%2F05%2F10%2Fthe-states-with-the-oldest-and-youngest-residents%2F3%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADemographics+of+Florida" class="Z3988"></span></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.census.gov/data/tables/time-series/demo/geographic-mobility/state-to-state-migration.html">"State-to-State Migration Flows"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=State-to-State+Migration+Flows&amp;rft_id=https%3A%2F%2Fwww.census.gov%2Fdata%2Ftables%2Ftime-series%2Fdemo%2Fgeographic-mobility%2Fstate-to-state-migration.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADemographics+of+Florida" class="Z3988"></span></span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite class="citation web cs1"><a rel="nofollow" class="external text" href="//www.census.gov/quickfacts/fact/table/FL/PST045218">"U.S. Census Bureau QuickFacts: Florida"</a>. <i>Census Bureau QuickFacts</i>. December 21, 2010<span class="reference-accessdate">. Retrieved <span class="nowrap">August 11,</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Census+Bureau+QuickFacts&amp;rft.atitle=U.S.+Census+Bureau+QuickFacts%3A+Florida&amp;rft.date=2010-12-21&amp;rft_id=%2F%2Fwww.census.gov%2Fquickfacts%2Ffact%2Ftable%2FFL%2FPST045218&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADemographics+of+Florida" class="Z3988"></span></span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite id="CITEREFBurian2018" class="citation book cs1">Burian, A. Ward (July 3, 2018). <a rel="nofollow" class="external text" href="https://books.google.com/books?id=-g9dDwAAQBAJ&amp;pg=PT349"><i>The Creation of the American States</i></a>. Morgan James Publishing. p.&#160;349. <a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-1-68350-910-3" title="Special:BookSources/978-1-68350-910-3"><bdi>978-1-68350-910-3</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+Creation+of+the+American+States&amp;rft.pages=349&amp;rft.pub=Morgan+James+Publishing&amp;rft.date=2018-07-03&amp;rft.isbn=978-1-68350-910-3&amp;rft.aulast=Burian&amp;rft.aufirst=A.+Ward&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3D-g9dDwAAQBAJ%26pg%3DPT349&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADemographics+of+Florida" class="Z3988"></span></span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="https://www.cdc.gov/nchs/data/nvsr/nvsr64/nvsr64_01.pdf">https://www.cdc.gov/nchs/data/nvsr/nvsr64/nvsr64_01.pdf</a></span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="https://www.cdc.gov/nchs/data/nvsr/nvsr64/nvsr64_12.pdf">https://www.cdc.gov/nchs/data/nvsr/nvsr64/nvsr64_12.pdf</a></span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="https://www.cdc.gov/nchs/data/nvsr/nvsr66/nvsr66_01.pdf">https://www.cdc.gov/nchs/data/nvsr/nvsr66/nvsr66_01.pdf</a></span>
+</li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="https://www.cdc.gov/nchs/data/nvsr/nvsr67/nvsr67_01.pdf">https://www.cdc.gov/nchs/data/nvsr/nvsr67/nvsr67_01.pdf</a></span>
+</li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="https://www.cdc.gov/nchs/data/nvsr/nvsr67/nvsr67_08-508.pdf">https://www.cdc.gov/nchs/data/nvsr/nvsr67/nvsr67_08-508.pdf</a></span>
+</li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text">
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.cdc.gov/nchs/data/nvsr/nvsr68/nvsr68_13-508.pdf">"Data"</a> <span class="cs1-format">(PDF)</span>. <i>www.cdc.gov</i><span class="reference-accessdate">. Retrieved <span class="nowrap">December 2,</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.cdc.gov&amp;rft.atitle=Data&amp;rft_id=https%3A%2F%2Fwww.cdc.gov%2Fnchs%2Fdata%2Fnvsr%2Fnvsr68%2Fnvsr68_13-508.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADemographics+of+Florida" class="Z3988"></span></span>
+</li>
+<li id="cite_note-MLA-14"><span class="mw-cite-backlink">^ <a href="#cite_ref-MLA_14-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-MLA_14-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.mla.org/map_data">"Florida"</a>. <a href="/wiki/Modern_Language_Association" title="Modern Language Association">Modern Language Association</a><span class="reference-accessdate">. Retrieved <span class="nowrap">August 15,</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Florida&amp;rft.pub=Modern+Language+Association&amp;rft_id=http%3A%2F%2Fwww.mla.org%2Fmap_data&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADemographics+of+Florida" class="Z3988"></span></span>
+</li>
+<li id="cite_note-MacDonald-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-MacDonald_15-0">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite id="CITEREFMacDonald2004" class="citation web cs1">MacDonald, Victoria M. (April 2004). <a rel="nofollow" class="external text" href="https://web.archive.org/web/20140209171845/http://www.collier.k12.fl.us/ell/docs/Status%20of%20ELL%20in%20Florida.pdf">"The Status of English Language Learners in Florida: Trends and Prospects"</a> <span class="cs1-format">(PDF)</span>. Education Policy Research Unit, <a href="/wiki/Arizona_State_University" title="Arizona State University">Arizona State University</a>. Archived from <a rel="nofollow" class="external text" href="http://www.collier.k12.fl.us/ell/docs/Status%20of%20ELL%20in%20Florida.pdf">the original</a> <span class="cs1-format">(PDF)</span> on February 9, 2014<span class="reference-accessdate">. Retrieved <span class="nowrap">May 24,</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=The+Status+of+English+Language+Learners+in+Florida%3A+Trends+and+Prospects&amp;rft.pub=Education+Policy+Research+Unit%2C+Arizona+State+University&amp;rft.date=2004-04&amp;rft.aulast=MacDonald&amp;rft.aufirst=Victoria+M.&amp;rft_id=http%3A%2F%2Fwww.collier.k12.fl.us%2Fell%2Fdocs%2FStatus%2520of%2520ELL%2520in%2520Florida.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADemographics+of+Florida" class="Z3988"></span></span>
+</li>
+<li id="cite_note-consentdecree-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-consentdecree_16-0">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20130617222621/http://www.fldoe.org/aala/lulac.asp">"League of United Latin American Citizens (LULAC) et al. vs. State Board of Education et al. Consent Decree"</a>. <a href="/wiki/United_States_District_Court" class="mw-redirect" title="United States District Court">United States District Court</a> for the Southern District of Florida. August 14, 1990. Archived from <a rel="nofollow" class="external text" href="http://www.fldoe.org/aala/lulac.asp">the original</a> on June 17, 2013<span class="reference-accessdate">. Retrieved <span class="nowrap">May 24,</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=League+of+United+Latin+American+Citizens+%28LULAC%29+et+al.+vs.+State+Board+of+Education+et+al.+Consent+Decree&amp;rft.pub=United+States+District+Court+for+the+Southern+District+of+Florida&amp;rft.date=1990-08-14&amp;rft_id=http%3A%2F%2Fwww.fldoe.org%2Faala%2Flulac.asp&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADemographics+of+Florida" class="Z3988"></span></span>
+</li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://articles.sun-sentinel.com/2004-06-13/news/0406130047_1_cuban-accent-spanish-sound">"<span class="cs1-kern-left">'</span>Miami Accent' Takes Speakers By Surprise"</a>. <i>Articles - <a href="/wiki/Sun-Sentinel" title="Sun-Sentinel">Sun-Sentinel.com</a></i>. June 13, 2004<span class="reference-accessdate">. Retrieved <span class="nowrap">September 2,</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Articles+-+Sun-Sentinel.com&amp;rft.atitle=%27Miami+Accent%27+Takes+Speakers+By+Surprise&amp;rft.date=2004-06-13&amp;rft_id=http%3A%2F%2Farticles.sun-sentinel.com%2F2004-06-13%2Fnews%2F0406130047_1_cuban-accent-spanish-sound&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADemographics+of+Florida" class="Z3988"></span></span>
+</li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://wlrn.org/post/miami-accents-why-locals-embrace-heavy-l-or-not?nopop=1">"Miami Accents: Why Locals Embrace That Heavy "L" Or Not"</a>. <a href="/wiki/WLRN-TV" title="WLRN-TV">WLRN-TV</a> and <a href="/wiki/WLRN-FM" title="WLRN-FM">WLRN-FM</a><span class="reference-accessdate">. Retrieved <span class="nowrap">September 2,</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Miami+Accents%3A+Why+Locals+Embrace+That+Heavy+%22L%22+Or+Not&amp;rft.pub=WLRN-TV+and+WLRN-FM&amp;rft_id=http%3A%2F%2Fwlrn.org%2Fpost%2Fmiami-accents-why-locals-embrace-heavy-l-or-not%3Fnopop%3D1&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADemographics+of+Florida" class="Z3988"></span></span>
+</li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://wlrn.org/post/miami-accents-how-miamah-turned-different-sort-twang">"Miami Accents: How 'Miamah' Turned Into A Different Sort Of Twang"</a>. <a href="/wiki/WLRN-TV" title="WLRN-TV">WLRN-TV</a> &amp; <a href="/wiki/WLRN-FM" title="WLRN-FM">WLRN-FM</a><span class="reference-accessdate">. Retrieved <span class="nowrap">September 2,</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Miami+Accents%3A+How+%27Miamah%27+Turned+Into+A+Different+Sort+Of+Twang&amp;rft.pub=WLRN-TV+%26+WLRN-FM&amp;rft_id=http%3A%2F%2Fwlrn.org%2Fpost%2Fmiami-accents-how-miamah-turned-different-sort-twang&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADemographics+of+Florida" class="Z3988"></span></span>
+</li>
+<li id="cite_note-Religion-20"><span class="mw-cite-backlink">^ <a href="#cite_ref-Religion_20-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Religion_20-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.pewforum.org/religious-landscape-study/state/florida/">"Adults in Florida"</a>. <a href="/wiki/Pew_Research_Center" title="Pew Research Center">Pew Research Center</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Adults+in+Florida&amp;rft.pub=Pew+Research+Center&amp;rft_id=https%3A%2F%2Fwww.pewforum.org%2Freligious-landscape-study%2Fstate%2Fflorida%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADemographics+of+Florida" class="Z3988"></span></span>
+</li>
+<li id="cite_note-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-21">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.washingtonpost.com/blogs/govbeat/wp/2014/11/11/what-each-states-veteran-population-looks-like-in-10-maps/">"What each state's veteran population looks like, in 10 maps"</a>. <i>The Washington Post</i>. November 11, 2014<span class="reference-accessdate">. Retrieved <span class="nowrap">August 11,</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=The+Washington+Post&amp;rft.atitle=What+each+state%27s+veteran+population+looks+like%2C+in+10+maps&amp;rft.date=2014-11-11&amp;rft_id=https%3A%2F%2Fwww.washingtonpost.com%2Fblogs%2Fgovbeat%2Fwp%2F2014%2F11%2F11%2Fwhat-each-states-veteran-population-looks-like-in-10-maps%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADemographics+of+Florida" class="Z3988"></span></span>
+</li>
+<li id="cite_note-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-22">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite id="CITEREFFishkind2014" class="citation news cs1">Fishkind, Hank (March 15, 2014). <a rel="nofollow" class="external text" href="http://www.floridatoday.com/article/20140314/COLUMNISTS0707/303140059/Hank-Fishkind-Harsh-winters-make-Florida-more-attractive">"Harsh winters make Florida attractive for visitors, moves"</a>. <i>Florida Today</i>. Melbourne, Florida. pp.&#160;4A<span class="reference-accessdate">. Retrieved <span class="nowrap">March 28,</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Florida+Today&amp;rft.atitle=Harsh+winters+make+Florida+attractive+for+visitors%2C+moves&amp;rft.pages=4A&amp;rft.date=2014-03-15&amp;rft.aulast=Fishkind&amp;rft.aufirst=Hank&amp;rft_id=http%3A%2F%2Fwww.floridatoday.com%2Farticle%2F20140314%2FCOLUMNISTS0707%2F303140059%2FHank-Fishkind-Harsh-winters-make-Florida-more-attractive&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADemographics+of+Florida" class="Z3988"></span></span>
+</li>
+</ol></div></div>
+<div role="navigation" class="navbox" aria-labelledby="23x16px&amp;#124;border_&amp;#124;alt=&amp;#124;link=_State_of_Florida" style="padding:3px"><table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="3"><style data-mw-deduplicate="TemplateStyles:r992953826">.mw-parser-output .navbar{display:inline;font-size:88%;font-weight:normal}.mw-parser-output .navbar-collapse{float:left;text-align:left}.mw-parser-output .navbar-boxtext{word-spacing:0}.mw-parser-output .navbar ul{display:inline-block;white-space:nowrap;line-height:inherit}.mw-parser-output .navbar-brackets::before{margin-right:-0.125em;content:"[ "}.mw-parser-output .navbar-brackets::after{margin-left:-0.125em;content:" ]"}.mw-parser-output .navbar li{word-spacing:-0.125em}.mw-parser-output .navbar-mini abbr{font-variant:small-caps;border-bottom:none;text-decoration:none;cursor:inherit}.mw-parser-output .navbar-ct-full{font-size:114%;margin:0 7em}.mw-parser-output .navbar-ct-mini{font-size:114%;margin:0 4em}.mw-parser-output .infobox .navbar{font-size:100%}.mw-parser-output .navbox .navbar{display:block;font-size:100%}.mw-parser-output .navbox-title .navbar{float:left;text-align:left;margin-right:0.5em}</style><div class="navbar plainlinks hlist navbar-mini"><ul><li class="nv-view"><a href="/wiki/Template:Florida" title="Template:Florida"><abbr title="View this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Florida" title="Template talk:Florida"><abbr title="Discuss this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Florida&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">e</abbr></a></li></ul></div><div id="23x16px&amp;#124;border_&amp;#124;alt=&amp;#124;link=_State_of_Florida" style="font-size:114%;margin:0 4em"><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Flag_of_Florida.svg/23px-Flag_of_Florida.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Flag_of_Florida.svg/35px-Flag_of_Florida.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Flag_of_Florida.svg/46px-Flag_of_Florida.svg.png 2x" data-file-width="750" data-file-height="500" /></span>&#160;<a href="/wiki/U.S._state" title="U.S. state">State</a> of <a href="/wiki/Florida" title="Florida">Florida</a></div></th></tr><tr><td class="navbox-abovebelow" colspan="3"><div id="Tallahassee_(capital)"><b><a href="/wiki/Tallahassee,_Florida" title="Tallahassee, Florida">Tallahassee</a></b> (capital)</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Category:Florida" title="Category:Florida">Topics</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Index_of_Florida-related_articles" title="Index of Florida-related articles">Index</a></li>
+<li><a href="/wiki/Climate_of_Florida" title="Climate of Florida">Climate</a> (<a href="/wiki/Climate_change_in_Florida" title="Climate change in Florida">Climate change</a>)</li>
+<li>Congressional
+<ul><li><a href="/wiki/United_States_congressional_delegations_from_Florida" title="United States congressional delegations from Florida">Delegations</a></li>
+<li><a href="/wiki/Florida%27s_congressional_districts" title="Florida&#39;s congressional districts">Districts</a></li></ul></li>
+<li><a href="/wiki/Education_in_Florida" title="Education in Florida">Education</a></li>
+<li><a href="/wiki/Environment_of_Florida" title="Environment of Florida">Environment</a> (<a href="/wiki/Environmental_issues_in_Florida" title="Environmental issues in Florida">Environmental issues</a>)</li>
+<li><a href="/wiki/Fauna_of_Florida" title="Fauna of Florida">Fauna</a></li>
+<li><a href="/wiki/Category:Flora_of_Florida" title="Category:Flora of Florida">Flora</a></li>
+<li><a href="/wiki/Geology_of_Florida" title="Geology of Florida">Geology</a></li>
+<li><a href="/wiki/Government_of_Florida" title="Government of Florida">Government</a></li>
+<li><a href="/wiki/List_of_Florida_hurricanes" title="List of Florida hurricanes">Hurricanes</a></li>
+<li><a href="/wiki/Law_of_Florida" title="Law of Florida">Law</a></li>
+<li><a href="/wiki/Category:Mass_media_in_Florida" title="Category:Mass media in Florida">Mass media</a>
+<ul><li><a href="/wiki/List_of_newspapers_in_Florida" title="List of newspapers in Florida">Newspapers</a></li>
+<li><a href="/wiki/List_of_radio_stations_in_Florida" title="List of radio stations in Florida">Radio</a></li>
+<li><a href="/wiki/List_of_television_stations_in_Florida" title="List of television stations in Florida">TV</a></li></ul></li>
+<li><a href="/wiki/List_of_Florida_state_symbols" title="List of Florida state symbols">Symbols</a>
+<ul><li><a href="/wiki/Flag_of_Florida" title="Flag of Florida">Flag</a></li>
+<li><a href="/wiki/In_God_We_Trust" title="In God We Trust">Motto</a></li>
+<li><a href="/wiki/Seal_of_Florida" title="Seal of Florida">Seal</a></li></ul></li>
+<li><a href="/wiki/Category:Tourist_attractions_in_Florida" title="Category:Tourist attractions in Florida">Tourist attractions</a></li>
+<li><a href="/wiki/Transportation_in_Florida" title="Transportation in Florida">Transportation</a></li></ul>
+</div></td><td class="noviewer navbox-image" rowspan="9" style="width:1px;padding:0px 0px 0px 2px"><div><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Seal_of_Florida.svg/100px-Seal_of_Florida.svg.png" decoding="async" width="100" height="100" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Seal_of_Florida.svg/150px-Seal_of_Florida.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Seal_of_Florida.svg/200px-Seal_of_Florida.svg.png 2x" data-file-width="500" data-file-height="500" /><div><span style="font-size:85%;"><a href="/wiki/Seal_of_Florida" title="Seal of Florida">Seal of Florida</a></span></div></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/History_of_Florida" title="History of Florida">History</a></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Timeline_of_Florida_history" title="Timeline of Florida history">Timeline</a></li>
+<li><a href="/wiki/Spanish_Florida" title="Spanish Florida">Spanish Florida</a>
+<ul><li><a href="/wiki/Spanish_missions_in_Florida" title="Spanish missions in Florida">Missions</a></li></ul></li>
+<li>British Rule
+<ul><li><a href="/wiki/East_Florida" title="East Florida">East Florida</a></li>
+<li><a href="/wiki/West_Florida" title="West Florida">West Florida</a></li></ul></li>
+<li><a href="/wiki/Seminole" title="Seminole">Seminole</a></li>
+<li><a href="/wiki/Florida_Territory" title="Florida Territory">Florida Territory</a></li>
+<li><a href="/wiki/Seminole_Wars" title="Seminole Wars">Seminole Wars</a></li>
+<li><a href="/wiki/History_of_slavery_in_Florida" title="History of slavery in Florida">Slavery</a></li>
+<li><a href="/wiki/Plantations_of_Leon_County,_Florida" title="Plantations of Leon County, Florida">Plantations of Leon County</a></li>
+<li><a href="/wiki/Florida_in_the_American_Civil_War" title="Florida in the American Civil War">Civil War</a></li>
+<li><a href="/wiki/Florida_East_Coast_Railway" title="Florida East Coast Railway">Florida East Coast Railway</a></li>
+<li><a href="/wiki/Florida_land_boom_of_the_1920s" title="Florida land boom of the 1920s">Florida land boom of the 1920s</a></li>
+<li><a href="/wiki/Cape_Canaveral" title="Cape Canaveral">Cape Canaveral</a></li>
+<li><a href="/wiki/Kennedy_Space_Center" title="Kennedy Space Center">Kennedy Space Center</a></li>
+<li><a href="/wiki/Disney_World" class="mw-redirect" title="Disney World">Disney World</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Geography_of_Florida" title="Geography of Florida">Geography</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Category:Beaches_of_Florida" title="Category:Beaches of Florida">Beaches</a></li>
+<li><a href="/wiki/List_of_caves_in_the_United_States#Florida" title="List of caves in the United States">Caves</a></li>
+<li><a href="/wiki/Everglades" title="Everglades">Everglades</a> (<a href="/wiki/Draining_and_development_of_the_Everglades" title="Draining and development of the Everglades">Drainage and development</a>)</li>
+<li><a href="/wiki/Florida_Keys" title="Florida Keys">Keys</a></li>
+<li><a href="/wiki/Category:Lakes_of_Florida" title="Category:Lakes of Florida">Lakes</a>
+<ul><li><a href="/wiki/Lake_Okeechobee" title="Lake Okeechobee">Lake Okeechobee</a></li></ul></li>
+<li><a href="/wiki/Florida_Reef" title="Florida Reef">Reef</a></li>
+<li><a href="/wiki/List_of_rivers_of_Florida" title="List of rivers of Florida">Rivers</a></li>
+<li><a href="/wiki/Sinkhole" title="Sinkhole">Sinkholes</a></li>
+<li><a href="/wiki/List_of_major_springs_in_Florida" title="List of major springs in Florida">Springs</a></li>
+<li><a href="/wiki/Florida_state_forests" title="Florida state forests">State forests</a></li>
+<li><a href="/wiki/List_of_Florida_state_parks" title="List of Florida state parks">State parks</a></li>
+<li><a href="/wiki/Florida_swamps" title="Florida swamps">Swamps</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/List_of_Florida_Hurricanes" class="mw-redirect" title="List of Florida Hurricanes">Major hurricanes</a></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/1919_Florida_Keys_hurricane" title="1919 Florida Keys hurricane">Florida Keys (1919)</a></li>
+<li><a href="/wiki/1921_Tampa_Bay_hurricane" title="1921 Tampa Bay hurricane">Tampa Bay (1921)</a></li>
+<li><a href="/wiki/1926_Miami_hurricane" title="1926 Miami hurricane">Miami (1926)</a></li>
+<li><a href="/wiki/1928_Okeechobee_hurricane" title="1928 Okeechobee hurricane">Okeechobee (1928)</a></li>
+<li><a href="/wiki/1929_Bahamas_hurricane" title="1929 Bahamas hurricane">Florida Keys (1929)</a></li>
+<li><a href="/wiki/1933_Treasure_Coast_hurricane" title="1933 Treasure Coast hurricane">Treasure Coast (1933)</a></li>
+<li><a href="/wiki/1935_Labor_Day_hurricane" title="1935 Labor Day hurricane">Labor Day (1935)</a></li>
+<li><a href="/wiki/1944_Cuba%E2%80%93Florida_hurricane" title="1944 Cuba–Florida hurricane">Dry Tortugas (1944)</a></li>
+<li><a href="/wiki/1945_Homestead_hurricane" title="1945 Homestead hurricane">Homestead (1945)</a></li>
+<li><a href="/wiki/1947_Fort_Lauderdale_hurricane" title="1947 Fort Lauderdale hurricane">Fort Lauderdale (1947)</a></li>
+<li><a href="/wiki/September_1948_Florida_hurricane" title="September 1948 Florida hurricane">South Florida (1948)</a></li>
+<li><a href="/wiki/1949_Florida_hurricane" title="1949 Florida hurricane">1949 Florida hurricane</a></li>
+<li><a href="/wiki/Hurricane_Easy_(1950)" title="Hurricane Easy (1950)">Easy (1950)</a></li>
+<li><a href="/wiki/Hurricane_King" title="Hurricane King">King (1950)</a></li>
+<li><a href="/wiki/Hurricane_Donna" title="Hurricane Donna">Donna (1960)</a></li>
+<li><a href="/wiki/Hurricane_Betsy" title="Hurricane Betsy">Betsy (1965)</a></li>
+<li><a href="/wiki/Hurricane_Eloise" title="Hurricane Eloise">Eloise (1975)</a></li>
+<li><a href="/wiki/Hurricane_Elena" title="Hurricane Elena">Elena (1985)</a></li>
+<li><a href="/wiki/Hurricane_Andrew" title="Hurricane Andrew">Andrew (1992)</a></li>
+<li><a href="/wiki/Hurricane_Opal" title="Hurricane Opal">Opal (1995)</a></li>
+<li><a href="/wiki/Hurricane_Charley" title="Hurricane Charley">Charley (2004)</a></li>
+<li><a href="/wiki/Hurricane_Frances" title="Hurricane Frances">Frances (2004)</a></li>
+<li><a href="/wiki/Hurricane_Ivan" title="Hurricane Ivan">Ivan (2004)</a></li>
+<li><a href="/wiki/Hurricane_Jeanne" title="Hurricane Jeanne">Jeanne (2004)</a></li>
+<li><a href="/wiki/Hurricane_Dennis" title="Hurricane Dennis">Dennis (2005)</a></li>
+<li><a href="/wiki/Hurricane_Wilma" title="Hurricane Wilma">Wilma (2005)</a></li>
+<li><a href="/wiki/Hurricane_Matthew" title="Hurricane Matthew">Matthew (2016)</a></li>
+<li><a href="/wiki/Hurricane_Irma" title="Hurricane Irma">Irma (2017)</a></li>
+<li><a href="/wiki/Hurricane_Michael" title="Hurricane Michael">Michael (2018)</a></li>
+<li><a href="/wiki/Hurricane_Dorian" title="Hurricane Dorian">Dorian (2019)</a></li>
+<li><a href="/wiki/Hurricane_Sally" title="Hurricane Sally">Sally (2020)</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Society</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Category:African-American_history_of_Florida" title="Category:African-American history of Florida">African-American</a></li>
+<li><a href="/wiki/Crime_in_Florida" title="Crime in Florida">Crime</a></li>
+<li>Cuban-American culture
+<ul><li><a href="/wiki/Cuban_migration_to_Miami" title="Cuban migration to Miami">Miami</a></li>
+<li><a href="/wiki/Category:Cuban-American_culture_in_Tampa,_Florida" title="Category:Cuban-American culture in Tampa, Florida">Tampa</a></li></ul></li>
+<li><a href="/wiki/Culture_of_Florida" title="Culture of Florida">Culture</a></li>
+<li><a class="mw-selflink selflink">Demographics</a></li>
+<li><a href="/wiki/Economy_of_Florida" class="mw-redirect" title="Economy of Florida">Economy</a></li>
+<li><a href="/wiki/Education_in_Florida" title="Education in Florida">Education</a></li>
+<li><a href="/wiki/List_of_people_from_Florida" title="List of people from Florida">Floridians</a></li>
+<li>Haitian-American culture
+<ul><li><a href="/wiki/Haitian_diaspora#Delray_Beach" title="Haitian diaspora">Delray Beach</a></li>
+<li><a href="/wiki/Haitian_diaspora#Miami" title="Haitian diaspora">Miami</a></li></ul></li>
+<li><a href="/wiki/Indigenous_peoples_of_Florida" title="Indigenous peoples of Florida">Indigenous peoples</a>
+<ul><li><a href="/wiki/Indigenous_people_of_the_Everglades_region" title="Indigenous people of the Everglades region">Everglades</a></li></ul></li>
+<li><a href="/wiki/Politics_of_Florida" title="Politics of Florida">Politics</a></li>
+<li><a href="/wiki/Sports_in_Florida" title="Sports in Florida">Sports</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/List_of_regions_of_the_United_States#Florida" title="List of regions of the United States">Regions</a></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Big_Bend_(Florida)" title="Big Bend (Florida)">Big Bend</a></li>
+<li><a href="/wiki/Central_Florida" title="Central Florida">Central Florida</a></li>
+<li><a href="/wiki/Emerald_Coast" title="Emerald Coast">Emerald Coast</a></li>
+<li><a href="/wiki/Everglades" title="Everglades">Everglades</a></li>
+<li><a href="/wiki/First_Coast" title="First Coast">First Coast</a></li>
+<li><a href="/wiki/Forgotten_Coast" title="Forgotten Coast">Forgotten Coast</a></li>
+<li><a href="/wiki/Gold_Coast_(Florida)" title="Gold Coast (Florida)">Gold Coast</a></li>
+<li><a href="/wiki/Halifax_area" title="Halifax area">Halifax area</a></li>
+<li><a href="/wiki/Florida_Heartland" title="Florida Heartland">Heartland</a></li>
+<li><a href="/wiki/Florida_Keys" title="Florida Keys">Keys</a></li>
+<li><a href="/wiki/Nature_Coast" title="Nature Coast">Nature Coast</a></li>
+<li><a href="/wiki/North_Central_Florida" title="North Central Florida">North Central Florida</a></li>
+<li><a href="/wiki/North_Florida" title="North Florida">North Florida</a></li>
+<li><a href="/wiki/Florida_Panhandle" title="Florida Panhandle">Panhandle</a></li>
+<li><a href="/wiki/South_Florida" title="South Florida">South Florida</a></li>
+<li><a href="/wiki/Southwest_Florida" title="Southwest Florida">Southwest Florida</a></li>
+<li><a href="/wiki/Space_Coast" title="Space Coast">Space Coast</a></li>
+<li><a href="/wiki/Florida_Suncoast" title="Florida Suncoast">Suncoast</a></li>
+<li><a href="/wiki/Tampa_Bay_Area" class="mw-redirect" title="Tampa Bay Area">Tampa Bay Area</a></li>
+<li><a href="/wiki/Treasure_Coast" title="Treasure Coast">Treasure Coast</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/List_of_metropolitan_areas_of_Florida" title="List of metropolitan areas of Florida">Metro areas</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Lee_County,_Florida" title="Lee County, Florida">Cape Coral–Fort Myers</a></li>
+<li><a href="/wiki/Ft_Walton_Beach_metropolitan_area" class="mw-redirect" title="Ft Walton Beach metropolitan area">Crestview-Fort Walton Beach-Destin</a></li>
+<li><a href="/wiki/Deltona%E2%80%93Daytona_Beach%E2%80%93Ormond_Beach,_FL_metropolitan_statistical_area" class="mw-redirect" title="Deltona–Daytona Beach–Ormond Beach, FL metropolitan statistical area">Deltona–Daytona Beach–Ormond Beach</a></li>
+<li><a href="/wiki/Gainesville,_Florida,_metropolitan_area" class="mw-redirect" title="Gainesville, Florida, metropolitan area">Gainesville</a></li>
+<li><a href="/wiki/Citrus_County,_Florida" title="Citrus County, Florida">Homosassa Springs</a></li>
+<li><a href="/wiki/Jacksonville_metropolitan_area" title="Jacksonville metropolitan area">Jacksonville</a></li>
+<li><a href="/wiki/Lakeland%E2%80%93Winter_Haven_metropolitan_area" class="mw-redirect" title="Lakeland–Winter Haven metropolitan area">Lakeland–Winter Haven</a></li>
+<li><a href="/wiki/Miami_metropolitan_area" title="Miami metropolitan area">Miami-Fort Lauderdale-West Palm Beach</a></li>
+<li><a href="/wiki/Collier_County,_Florida" title="Collier County, Florida">Naples-Immokalee-Marco Island</a></li>
+<li><a href="/wiki/Sarasota_metropolitan_area" title="Sarasota metropolitan area">North Port-Sarasota-Bradenton</a></li>
+<li><a href="/wiki/Marion_County,_Florida" title="Marion County, Florida">Ocala</a></li>
+<li><a href="/wiki/Greater_Orlando" title="Greater Orlando">Orlando-Kissimmee-Sanford</a></li>
+<li><a href="/wiki/Brevard_County,_Florida" title="Brevard County, Florida">Palm Bay-Melbourne-Titusville</a></li>
+<li><a href="/wiki/Panama_City_metropolitan_area" class="mw-redirect" title="Panama City metropolitan area">Panama City</a></li>
+<li><a href="/wiki/Pensacola_metropolitan_area" title="Pensacola metropolitan area">Pensacola-Ferry Pass-Brent</a></li>
+<li><a href="/wiki/Treasure_Coast" title="Treasure Coast">Port St. Lucie</a></li>
+<li><a href="/wiki/Charlotte_County,_Florida" title="Charlotte County, Florida">Punta Gorda</a></li>
+<li><a href="/wiki/Indian_River_County,_Florida" title="Indian River County, Florida">Sebastian-Vero Beach</a></li>
+<li><a href="/wiki/Highlands_County,_Florida" title="Highlands County, Florida">Sebring</a></li>
+<li><a href="/wiki/Tallahassee_metropolitan_area" title="Tallahassee metropolitan area">Tallahassee</a></li>
+<li><a href="/wiki/Tampa_Bay_Area" class="mw-redirect" title="Tampa Bay Area">Tampa-St. Petersburg-Clearwater</a></li>
+<li><a href="/wiki/Sumter_County,_Florida" title="Sumter County, Florida">The Villages</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/List_of_municipalities_in_Florida" title="List of municipalities in Florida">Largest cities</a></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Jacksonville,_Florida" title="Jacksonville, Florida">Jacksonville</a></li>
+<li><a href="/wiki/Miami" title="Miami">Miami</a></li>
+<li><a href="/wiki/Tampa,_Florida" title="Tampa, Florida">Tampa</a></li>
+<li><a href="/wiki/Orlando,_Florida" title="Orlando, Florida">Orlando</a></li>
+<li><a href="/wiki/St._Petersburg,_Florida" title="St. Petersburg, Florida">St. Petersburg</a></li>
+<li><a href="/wiki/Hialeah,_Florida" title="Hialeah, Florida">Hialeah</a></li>
+<li><a href="/wiki/Tallahassee,_Florida" title="Tallahassee, Florida">Tallahassee</a></li>
+<li><a href="/wiki/Port_St._Lucie,_Florida" title="Port St. Lucie, Florida">Port St. Lucie</a></li>
+<li><a href="/wiki/Fort_Lauderdale,_Florida" title="Fort Lauderdale, Florida">Fort Lauderdale</a></li>
+<li><a href="/wiki/West_Palm_Beach,_Florida" title="West Palm Beach, Florida">West Palm Beach</a></li>
+<li><a href="/wiki/Cape_Coral,_Florida" title="Cape Coral, Florida">Cape Coral</a></li>
+<li><a href="/wiki/Pembroke_Pines,_Florida" title="Pembroke Pines, Florida">Pembroke Pines</a></li>
+<li><a href="/wiki/Hollywood,_Florida" title="Hollywood, Florida">Hollywood</a></li>
+<li><a href="/wiki/Miramar,_Florida" title="Miramar, Florida">Miramar</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/List_of_counties_in_Florida" title="List of counties in Florida">Counties</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Alachua_County,_Florida" title="Alachua County, Florida">Alachua</a></li>
+<li><a href="/wiki/Baker_County,_Florida" title="Baker County, Florida">Baker</a></li>
+<li><a href="/wiki/Bay_County,_Florida" title="Bay County, Florida">Bay</a></li>
+<li><a href="/wiki/Bradford_County,_Florida" title="Bradford County, Florida">Bradford</a></li>
+<li><a href="/wiki/Brevard_County,_Florida" title="Brevard County, Florida">Brevard</a></li>
+<li><a href="/wiki/Broward_County,_Florida" title="Broward County, Florida">Broward</a></li>
+<li><a href="/wiki/Calhoun_County,_Florida" title="Calhoun County, Florida">Calhoun</a></li>
+<li><a href="/wiki/Charlotte_County,_Florida" title="Charlotte County, Florida">Charlotte</a></li>
+<li><a href="/wiki/Citrus_County,_Florida" title="Citrus County, Florida">Citrus</a></li>
+<li><a href="/wiki/Clay_County,_Florida" title="Clay County, Florida">Clay</a></li>
+<li><a href="/wiki/Collier_County,_Florida" title="Collier County, Florida">Collier</a></li>
+<li><a href="/wiki/Columbia_County,_Florida" title="Columbia County, Florida">Columbia</a></li>
+<li><a href="/wiki/DeSoto_County,_Florida" title="DeSoto County, Florida">DeSoto</a></li>
+<li><a href="/wiki/Dixie_County,_Florida" title="Dixie County, Florida">Dixie</a></li>
+<li><a href="/wiki/Duval_County,_Florida" title="Duval County, Florida">Duval</a></li>
+<li><a href="/wiki/Escambia_County,_Florida" title="Escambia County, Florida">Escambia</a></li>
+<li><a href="/wiki/Flagler_County,_Florida" title="Flagler County, Florida">Flagler</a></li>
+<li><a href="/wiki/Franklin_County,_Florida" title="Franklin County, Florida">Franklin</a></li>
+<li><a href="/wiki/Gadsden_County,_Florida" title="Gadsden County, Florida">Gadsden</a></li>
+<li><a href="/wiki/Gilchrist_County,_Florida" title="Gilchrist County, Florida">Gilchrist</a></li>
+<li><a href="/wiki/Glades_County,_Florida" title="Glades County, Florida">Glades</a></li>
+<li><a href="/wiki/Gulf_County,_Florida" title="Gulf County, Florida">Gulf</a></li>
+<li><a href="/wiki/Hamilton_County,_Florida" title="Hamilton County, Florida">Hamilton</a></li>
+<li><a href="/wiki/Hardee_County,_Florida" title="Hardee County, Florida">Hardee</a></li>
+<li><a href="/wiki/Hendry_County,_Florida" title="Hendry County, Florida">Hendry</a></li>
+<li><a href="/wiki/Hernando_County,_Florida" title="Hernando County, Florida">Hernando</a></li>
+<li><a href="/wiki/Highlands_County,_Florida" title="Highlands County, Florida">Highlands</a></li>
+<li><a href="/wiki/Hillsborough_County,_Florida" title="Hillsborough County, Florida">Hillsborough</a></li>
+<li><a href="/wiki/Holmes_County,_Florida" title="Holmes County, Florida">Holmes</a></li>
+<li><a href="/wiki/Indian_River_County,_Florida" title="Indian River County, Florida">Indian River</a></li>
+<li><a href="/wiki/Jackson_County,_Florida" title="Jackson County, Florida">Jackson</a></li>
+<li><a href="/wiki/Jefferson_County,_Florida" title="Jefferson County, Florida">Jefferson</a></li>
+<li><a href="/wiki/Lafayette_County,_Florida" title="Lafayette County, Florida">Lafayette</a></li>
+<li><a href="/wiki/Lake_County,_Florida" title="Lake County, Florida">Lake</a></li>
+<li><a href="/wiki/Lee_County,_Florida" title="Lee County, Florida">Lee</a></li>
+<li><a href="/wiki/Leon_County,_Florida" title="Leon County, Florida">Leon</a></li>
+<li><a href="/wiki/Levy_County,_Florida" title="Levy County, Florida">Levy</a></li>
+<li><a href="/wiki/Liberty_County,_Florida" title="Liberty County, Florida">Liberty</a></li>
+<li><a href="/wiki/Madison_County,_Florida" title="Madison County, Florida">Madison</a></li>
+<li><a href="/wiki/Manatee_County,_Florida" title="Manatee County, Florida">Manatee</a></li>
+<li><a href="/wiki/Marion_County,_Florida" title="Marion County, Florida">Marion</a></li>
+<li><a href="/wiki/Martin_County,_Florida" title="Martin County, Florida">Martin</a></li>
+<li><a href="/wiki/Miami-Dade_County,_Florida" title="Miami-Dade County, Florida">Miami‑Dade</a></li>
+<li><a href="/wiki/Monroe_County,_Florida" title="Monroe County, Florida">Monroe</a></li>
+<li><a href="/wiki/Mosquito_County,_Florida" title="Mosquito County, Florida">Mosquito</a> (former county)</li>
+<li><a href="/wiki/Nassau_County,_Florida" title="Nassau County, Florida">Nassau</a></li>
+<li><a href="/wiki/Okaloosa_County,_Florida" title="Okaloosa County, Florida">Okaloosa</a></li>
+<li><a href="/wiki/Okeechobee_County,_Florida" title="Okeechobee County, Florida">Okeechobee</a></li>
+<li><a href="/wiki/Orange_County,_Florida" title="Orange County, Florida">Orange</a></li>
+<li><a href="/wiki/Osceola_County,_Florida" title="Osceola County, Florida">Osceola</a></li>
+<li><a href="/wiki/Palm_Beach_County,_Florida" title="Palm Beach County, Florida">Palm Beach</a></li>
+<li><a href="/wiki/Pasco_County,_Florida" title="Pasco County, Florida">Pasco</a></li>
+<li><a href="/wiki/Pinellas_County,_Florida" title="Pinellas County, Florida">Pinellas</a></li>
+<li><a href="/wiki/Polk_County,_Florida" title="Polk County, Florida">Polk</a></li>
+<li><a href="/wiki/Putnam_County,_Florida" title="Putnam County, Florida">Putnam</a></li>
+<li><a href="/wiki/Santa_Rosa_County,_Florida" title="Santa Rosa County, Florida">Santa Rosa</a></li>
+<li><a href="/wiki/Sarasota_County,_Florida" title="Sarasota County, Florida">Sarasota</a></li>
+<li><a href="/wiki/Seminole_County,_Florida" title="Seminole County, Florida">Seminole</a></li>
+<li><a href="/wiki/St._Johns_County,_Florida" title="St. Johns County, Florida">St. Johns</a></li>
+<li><a href="/wiki/St._Lucie_County,_Florida" title="St. Lucie County, Florida">St. Lucie</a></li>
+<li><a href="/wiki/Sumter_County,_Florida" title="Sumter County, Florida">Sumter</a></li>
+<li><a href="/wiki/Suwannee_County,_Florida" title="Suwannee County, Florida">Suwannee</a></li>
+<li><a href="/wiki/Taylor_County,_Florida" title="Taylor County, Florida">Taylor</a></li>
+<li><a href="/wiki/Union_County,_Florida" title="Union County, Florida">Union</a></li>
+<li><a href="/wiki/Volusia_County,_Florida" title="Volusia County, Florida">Volusia</a></li>
+<li><a href="/wiki/Wakulla_County,_Florida" title="Wakulla County, Florida">Wakulla</a></li>
+<li><a href="/wiki/Walton_County,_Florida" title="Walton County, Florida">Walton</a></li>
+<li><a href="/wiki/Washington_County,_Florida" title="Washington County, Florida">Washington</a></li></ul>
+</div></td></tr></tbody></table></div>
+<div role="navigation" class="navbox" aria-labelledby="Demographics_of_the_United_States_by_state,_territory,_and_metropolitan_area/city" style="padding:3px"><table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r992953826"/><div class="navbar plainlinks hlist navbar-mini"><ul><li class="nv-view"><a href="/wiki/Template:Demographics_of_the_United_States_by_state" title="Template:Demographics of the United States by state"><abbr title="View this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Demographics_of_the_United_States_by_state" title="Template talk:Demographics of the United States by state"><abbr title="Discuss this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Demographics_of_the_United_States_by_state&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">e</abbr></a></li></ul></div><div id="Demographics_of_the_United_States_by_state,_territory,_and_metropolitan_area/city" style="font-size:114%;margin:0 4em"><a href="/wiki/Demography_of_the_United_States" class="mw-redirect" title="Demography of the United States">Demographics of the United States</a> by state, territory, and metropolitan area/city</div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%">by <a href="/wiki/U.S._state" title="U.S. state">state</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Demographics_of_Alabama" title="Demographics of Alabama">Alabama</a></li>
+<li><a href="/wiki/Demographics_of_Alaska" title="Demographics of Alaska">Alaska</a></li>
+<li><a href="/wiki/Demographics_of_Arizona" title="Demographics of Arizona">Arizona</a></li>
+<li><a href="/wiki/Demographics_of_Arkansas" title="Demographics of Arkansas">Arkansas</a></li>
+<li><a href="/wiki/Demographics_of_California" title="Demographics of California">California</a></li>
+<li><a href="/wiki/Demographics_of_Colorado" class="mw-redirect" title="Demographics of Colorado">Colorado</a></li>
+<li><a href="/wiki/Demographics_of_Connecticut" class="mw-redirect" title="Demographics of Connecticut">Connecticut</a></li>
+<li><a href="/wiki/Demographics_of_Delaware" class="mw-redirect" title="Demographics of Delaware">Delaware</a></li>
+<li><a class="mw-selflink selflink">Florida</a></li>
+<li><a href="/wiki/Demographics_of_Georgia_(U.S._state)" title="Demographics of Georgia (U.S. state)">Georgia</a></li>
+<li><a href="/wiki/Demographics_of_Hawaii" class="mw-redirect" title="Demographics of Hawaii">Hawaii</a></li>
+<li><a href="/wiki/Demographics_of_Idaho" class="mw-redirect" title="Demographics of Idaho">Idaho</a></li>
+<li><a href="/wiki/Demographics_of_Illinois" class="mw-redirect" title="Demographics of Illinois">Illinois</a></li>
+<li><a href="/wiki/Demographics_of_Indiana" class="mw-redirect" title="Demographics of Indiana">Indiana</a></li>
+<li><a href="/wiki/Demographics_of_Iowa" class="mw-redirect" title="Demographics of Iowa">Iowa</a></li>
+<li><a href="/wiki/Demographics_of_Kansas" class="mw-redirect" title="Demographics of Kansas">Kansas</a></li>
+<li><a href="/wiki/Demographics_of_Kentucky" title="Demographics of Kentucky">Kentucky</a></li>
+<li><a href="/wiki/Demographics_of_Louisiana" title="Demographics of Louisiana">Louisiana</a></li>
+<li><a href="/wiki/Demographics_of_Maine" class="mw-redirect" title="Demographics of Maine">Maine</a></li>
+<li><a href="/wiki/Demographics_of_Maryland" class="mw-redirect" title="Demographics of Maryland">Maryland</a></li>
+<li><a href="/wiki/Demographics_of_Massachusetts" title="Demographics of Massachusetts">Massachusetts</a></li>
+<li><a href="/wiki/Demographics_of_Michigan" class="mw-redirect" title="Demographics of Michigan">Michigan</a></li>
+<li><a href="/wiki/Demographics_of_Minnesota" title="Demographics of Minnesota">Minnesota</a></li>
+<li><a href="/wiki/Demographics_of_Mississippi" class="mw-redirect" title="Demographics of Mississippi">Mississippi</a></li>
+<li><a href="/wiki/Demographics_of_Missouri" class="mw-redirect" title="Demographics of Missouri">Missouri</a></li>
+<li><a href="/wiki/Demographics_of_Montana" class="mw-redirect" title="Demographics of Montana">Montana</a></li>
+<li><a href="/wiki/Demographics_of_Nebraska" class="mw-redirect" title="Demographics of Nebraska">Nebraska</a></li>
+<li><a href="/wiki/Demographics_of_Nevada" class="mw-redirect" title="Demographics of Nevada">Nevada</a></li>
+<li><a href="/wiki/Demographics_of_New_Hampshire" class="mw-redirect" title="Demographics of New Hampshire">New Hampshire</a></li>
+<li><a href="/wiki/Demographics_of_New_Jersey" class="mw-redirect" title="Demographics of New Jersey">New Jersey</a></li>
+<li><a href="/wiki/Demographics_of_New_Mexico" class="mw-redirect" title="Demographics of New Mexico">New Mexico</a></li>
+<li><a href="/wiki/Demographics_of_New_York" class="mw-redirect" title="Demographics of New York">New York</a></li>
+<li><a href="/wiki/Demographics_of_North_Carolina" title="Demographics of North Carolina">North Carolina</a></li>
+<li><a href="/wiki/Demographics_of_North_Dakota" class="mw-redirect" title="Demographics of North Dakota">North Dakota</a></li>
+<li><a href="/wiki/Demographics_of_Ohio" class="mw-redirect" title="Demographics of Ohio">Ohio</a></li>
+<li><a href="/wiki/Demographics_of_Oklahoma" title="Demographics of Oklahoma">Oklahoma</a></li>
+<li><a href="/wiki/Demographics_of_Oregon" class="mw-redirect" title="Demographics of Oregon">Oregon</a></li>
+<li><a href="/wiki/Demographics_of_Pennsylvania" class="mw-redirect" title="Demographics of Pennsylvania">Pennsylvania</a></li>
+<li><a href="/wiki/Demographics_of_Rhode_Island" class="mw-redirect" title="Demographics of Rhode Island">Rhode Island</a></li>
+<li><a href="/wiki/Demographics_of_South_Carolina" title="Demographics of South Carolina"> South Carolina</a></li>
+<li><a href="/wiki/Demographics_of_South_Dakota" title="Demographics of South Dakota">South Dakota</a></li>
+<li><a href="/wiki/Demographics_of_Tennessee" class="mw-redirect" title="Demographics of Tennessee">Tennessee</a></li>
+<li><a href="/wiki/Demographics_of_Texas" title="Demographics of Texas">Texas</a></li>
+<li><a href="/wiki/Demographics_of_Utah" title="Demographics of Utah">Utah</a></li>
+<li><a href="/wiki/Demographics_of_Vermont" class="mw-redirect" title="Demographics of Vermont">Vermont</a></li>
+<li><a href="/wiki/Demographics_of_Virginia" title="Demographics of Virginia">Virginia</a></li>
+<li><a href="/wiki/Demographics_of_Washington" class="mw-redirect" title="Demographics of Washington">Washington</a></li>
+<li><a href="/wiki/Demographics_of_West_Virginia" class="mw-redirect" title="Demographics of West Virginia">West Virginia</a></li>
+<li><a href="/wiki/Demographics_of_Wisconsin" class="mw-redirect" title="Demographics of Wisconsin">Wisconsin</a></li>
+<li><a href="/wiki/Demographics_of_Wyoming" class="mw-redirect" title="Demographics of Wyoming">Wyoming</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">by <a href="/wiki/Federal_district" title="Federal district">federal district</a></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Demographics_of_Washington,_D.C." title="Demographics of Washington, D.C.">District of Columbia</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">by <a href="/wiki/Territories_of_the_United_States" title="Territories of the United States">territory</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Demographics_of_American_Samoa" title="Demographics of American Samoa">American Samoa</a></li>
+<li><a href="/wiki/Demographics_of_Guam" title="Demographics of Guam">Guam</a></li>
+<li><a href="/wiki/Demographics_of_the_Northern_Mariana_Islands" title="Demographics of the Northern Mariana Islands">Northern Mariana Islands</a></li>
+<li><a href="/wiki/Demographics_of_Puerto_Rico" title="Demographics of Puerto Rico">Puerto Rico</a></li>
+<li><a href="/wiki/Demographics_of_the_United_States_Virgin_Islands" title="Demographics of the United States Virgin Islands">U.S. Virgin Islands</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Category:Demographics_by_city_in_the_United_States" title="Category:Demographics by city in the United States">by metropolitan<br />area/city</a></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Demographics_of_Allentown,_Pennsylvania" title="Demographics of Allentown, Pennsylvania">Allentown, PA</a></li>
+<li><a href="/wiki/Demographics_of_Atlanta" title="Demographics of Atlanta">Atlanta</a></li>
+<li><a href="/wiki/Demographics_of_Chicago" title="Demographics of Chicago">Chicago</a></li>
+<li><a href="/wiki/Demographics_of_Cleveland" title="Demographics of Cleveland">Cleveland</a></li>
+<li><a href="/wiki/Demographics_of_Dallas%E2%80%93Fort_Worth" title="Demographics of Dallas–Fort Worth">Dallas-Fort Worth</a>
+<ul><li><a href="/wiki/Demographics_of_Dallas" title="Demographics of Dallas">Dallas city</a></li></ul></li>
+<li><a href="/wiki/Demographics_of_Denver" title="Demographics of Denver">Denver</a></li>
+<li><a href="/wiki/Demographics_of_Metro_Detroit" title="Demographics of Metro Detroit">Metro Detroit</a>
+<ul><li><a href="/wiki/Demographic_history_of_Detroit" title="Demographic history of Detroit">Detroit city</a></li></ul></li>
+<li><a href="/wiki/Demographics_of_Erie,_Pennsylvania" title="Demographics of Erie, Pennsylvania">Erie, PA</a></li>
+<li><a href="/wiki/Demographics_of_Houston" title="Demographics of Houston">Houston</a></li>
+<li><a href="/wiki/Demographics_of_Los_Angeles" title="Demographics of Los Angeles">Los Angeles</a></li>
+<li><a href="/wiki/Demographics_of_Minneapolis" title="Demographics of Minneapolis">Minneapolis</a></li>
+<li><a href="/wiki/Demographics_of_New_York_City" title="Demographics of New York City">New York City</a>
+<ul><li><a href="/wiki/Demographics_of_The_Bronx" class="mw-redirect" title="Demographics of The Bronx">The Bronx</a></li>
+<li><a href="/wiki/Demographics_of_Brooklyn" title="Demographics of Brooklyn">Brooklyn</a></li>
+<li><a href="/wiki/Demographics_of_Manhattan" title="Demographics of Manhattan">Manhattan</a></li>
+<li><a href="/wiki/Demographics_of_Queens" title="Demographics of Queens">Queens</a></li>
+<li><a href="/wiki/Demographics_of_Staten_Island" title="Demographics of Staten Island">Staten Island</a>)</li></ul></li>
+<li><a href="/wiki/Demographics_of_Philadelphia" title="Demographics of Philadelphia">Philadelphia</a></li>
+<li><a href="/wiki/Demographics_of_Seattle" title="Demographics of Seattle">Seattle</a></li>
+<li><a href="/wiki/Demographics_of_Tulsa,_Oklahoma" title="Demographics of Tulsa, Oklahoma">Tulsa, OK</a></li>
+<li><a href="/wiki/Demographics_of_Utica,_New_York" title="Demographics of Utica, New York">Utica, NY</a></li>
+<li><a href="/wiki/Demographics_of_Visalia,_California" title="Demographics of Visalia, California">Visalia, CA</a></li></ul>
+</div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw1286
+Cached time: 20210112100303
+Cache expiry: 2592000
+Dynamic content: false
+Complications: [vary‐revision‐sha1]
+CPU time usage: 0.784 seconds
+Real time usage: 0.943 seconds
+Preprocessor visited node count: 6186/1000000
+Post‐expand include size: 186773/2097152 bytes
+Template argument size: 17641/2097152 bytes
+Highest expansion depth: 15/40
+Expensive parser function count: 3/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 70740/5000000 bytes
+Lua time usage: 0.333/10.000 seconds
+Lua memory usage: 6758832/52428800 bytes
+Number of Wikibase entities loaded: 0/400
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  774.685      1 -total
+ 28.87%  223.682      1 Template:Reflist
+ 22.27%  172.517     15 Template:Cite_web
+ 16.33%  126.506      4 Template:Pie_chart
+ 15.40%  119.294      1 Template:More_citations_needed
+ 14.30%  110.751      1 Template:US_Census_population
+ 12.22%   94.684      1 Template:Ambox
+ 10.39%   80.522     30 Template:Legend
+  8.45%   65.485      1 Template:Florida
+  7.87%   60.953      2 Template:Navbox
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:16721718-0!canonical and timestamp 20210112100302 and revision id 995254078. Serialized with JSON.
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript>
+<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Demographics_of_Florida&amp;oldid=995254078">https://en.wikipedia.org/w/index.php?title=Demographics_of_Florida&amp;oldid=995254078</a>"</div></div>
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Demographics_of_Florida" title="Category:Demographics of Florida">Demographics of Florida</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_needing_additional_references_from_January_2015" title="Category:Articles needing additional references from January 2015">Articles needing additional references from January 2015</a></li><li><a href="/wiki/Category:All_articles_needing_additional_references" title="Category:All articles needing additional references">All articles needing additional references</a></li><li><a href="/wiki/Category:Use_mdy_dates_from_July_2020" title="Category:Use mdy dates from July 2020">Use mdy dates from July 2020</a></li><li><a href="/wiki/Category:Articles_with_short_description" title="Category:Articles with short description">Articles with short description</a></li><li><a href="/wiki/Category:Short_description_is_different_from_Wikidata" title="Category:Short description is different from Wikidata">Short description is different from Wikidata</a></li><li><a href="/wiki/Category:Articles_containing_potentially_dated_statements_from_2010" title="Category:Articles containing potentially dated statements from 2010">Articles containing potentially dated statements from 2010</a></li><li><a href="/wiki/Category:All_articles_containing_potentially_dated_statements" title="Category:All articles containing potentially dated statements">All articles containing potentially dated statements</a></li></ul></div></div>
+	</div>
+</div>
+<div id='mw-data-after-content'>
+	<div class="read-more-container"></div>
+</div>
+
+<div id="mw-navigation">
+	<h2>Navigation menu</h2>
+	<div id="mw-head">
+		<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-personal" class="mw-portlet mw-portlet-personal vector-menu" aria-labelledby="p-personal-label" role="navigation" 
+	 >
+	<h3 id="p-personal-label">
+		<span>Personal tools</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Demographics+of+Florida" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Demographics+of+Florida" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li></ul>
+		
+	</div>
+</nav>
+
+		<div id="left-navigation">
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-namespaces" class="mw-portlet mw-portlet-namespaces vector-menu vector-menu-tabs" aria-labelledby="p-namespaces-label" role="navigation" 
+	 >
+	<h3 id="p-namespaces-label">
+		<span>Namespaces</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li id="ca-nstab-main" class="selected"><a href="/wiki/Demographics_of_Florida" title="View the content page [c]" accesskey="c">Article</a></li><li id="ca-talk"><a href="/wiki/Talk:Demographics_of_Florida" rel="discussion" title="Discuss improvements to the content page [t]" accesskey="t">Talk</a></li></ul>
+		
+	</div>
+</nav>
+
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-variants" class="mw-portlet mw-portlet-variants emptyPortlet vector-menu vector-menu-dropdown" aria-labelledby="p-variants-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox" aria-labelledby="p-variants-label" />
+	<h3 id="p-variants-label">
+		<span>Variants</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+		</div>
+		<div id="right-navigation">
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-views" class="mw-portlet mw-portlet-views vector-menu vector-menu-tabs" aria-labelledby="p-views-label" role="navigation" 
+	 >
+	<h3 id="p-views-label">
+		<span>Views</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li id="ca-view" class="selected"><a href="/wiki/Demographics_of_Florida">Read</a></li><li id="ca-edit"><a href="/w/index.php?title=Demographics_of_Florida&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></li><li id="ca-history"><a href="/w/index.php?title=Demographics_of_Florida&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></li></ul>
+		
+	</div>
+</nav>
+
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-cactions" class="mw-portlet mw-portlet-cactions emptyPortlet vector-menu vector-menu-dropdown" aria-labelledby="p-cactions-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox" aria-labelledby="p-cactions-label" />
+	<h3 id="p-cactions-label">
+		<span>More</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+			<div id="p-search" role="search">
+	<h3 >
+		<label for="searchInput">Search</label>
+	</h3>
+	<form action="/w/index.php" id="searchform">
+		<div id="simpleSearch" data-search-loc="header-navigation">
+			<input type="search" name="search" placeholder="Search Wikipedia" autocapitalize="sentences" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/>
+			<input type="hidden" name="title" value="Special:Search">
+			<input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/>
+			<input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>
+		</div>
+	</form>
+</div>
+
+		</div>
+	</div>
+	
+<div id="mw-panel">
+	<div id="p-logo" role="banner">
+		<a  title="Visit the main page" class="mw-wiki-logo" href="/wiki/Main_Page"></a>
+	</div>
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-navigation" class="mw-portlet mw-portlet-navigation vector-menu vector-menu-portal portal portal-first" aria-labelledby="p-navigation-label" role="navigation" 
+	 >
+	<h3 id="p-navigation-label">
+		<span>Navigation</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Wikipedia:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Articles related to current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Visit a randomly selected article [x]" accesskey="x">Random article</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Learn about Wikipedia and how it works">About Wikipedia</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact us</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us by donating to the Wikimedia Foundation">Donate</a></li></ul>
+		
+	</div>
+</nav>
+
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-interaction" class="mw-portlet mw-portlet-interaction vector-menu vector-menu-portal portal" aria-labelledby="p-interaction-label" role="navigation" 
+	 >
+	<h3 id="p-interaction-label">
+		<span>Contribute</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-introduction"><a href="/wiki/Help:Introduction" title="Learn how to edit Wikipedia">Learn to edit</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="The hub for editors">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes to Wikipedia [r]" accesskey="r">Recent changes</a></li><li id="n-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Add images or other media for use on Wikipedia">Upload file</a></li></ul>
+		
+	</div>
+</nav>
+<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-tb" class="mw-portlet mw-portlet-tb vector-menu vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation" 
+	 >
+	<h3 id="p-tb-label">
+		<span>Tools</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Demographics_of_Florida" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Demographics_of_Florida" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Demographics_of_Florida&amp;oldid=995254078" title="Permanent link to this revision of this page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Demographics_of_Florida&amp;action=info" title="More information about this page">Page information</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Demographics_of_Florida&amp;id=995254078&amp;wpFormIdentifier=titleform" title="Information on how to cite this page">Cite this page</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q3044244" title="Structured data on this page hosted by Wikidata [g]" accesskey="g">Wikidata item</a></li></ul>
+		
+	</div>
+</nav>
+<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-coll-print_export" class="mw-portlet mw-portlet-coll-print_export vector-menu vector-menu-portal portal" aria-labelledby="p-coll-print_export-label" role="navigation" 
+	 >
+	<h3 id="p-coll-print_export-label">
+		<span>Print/export</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:DownloadAsPdf&amp;page=Demographics_of_Florida&amp;action=show-download-screen" title="Download this page as a PDF file">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Demographics_of_Florida&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li></ul>
+		
+	</div>
+</nav>
+<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-wikibase-otherprojects" class="mw-portlet mw-portlet-wikibase-otherprojects vector-menu vector-menu-portal portal" aria-labelledby="p-wikibase-otherprojects-label" role="navigation" 
+	 >
+	<h3 id="p-wikibase-otherprojects-label">
+		<span>In other projects</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Demographics_of_Florida" hreflang="en">Wikimedia Commons</a></li></ul>
+		
+	</div>
+</nav>
+
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-lang" class="mw-portlet mw-portlet-lang vector-menu vector-menu-portal portal" aria-labelledby="p-lang-label" role="navigation" 
+	 >
+	<h3 id="p-lang-label">
+		<span>Languages</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/D%C3%A9mographie_de_la_Floride" title="Démographie de la Floride – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%9D%D0%B0%D1%81%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5_%D0%A4%D0%BB%D0%BE%D1%80%D0%B8%D0%B4%D1%8B" title="Население Флориды – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li></ul>
+		<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q3044244#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>
+	</div>
+</nav>
+
+</div>
+
+</div>
+<footer id="footer" class="mw-footer" role="contentinfo" >
+	<ul id="footer-info" >
+	<li id="footer-info-lastmod"> This page was last edited on 20 December 2020, at 01:06<span class="anonymous-show">&#160;(UTC)</span>.</li>
+	<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+
+	<ul id="footer-places" >
+	<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+	<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+	<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+	<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+	<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Demographics_of_Florida&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+	<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/en.wikipedia.org">Statistics</a></li>
+	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+</ul>
+
+	<ul id="footer-icons" class="noprint">
+	<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy" /></a></li>
+	<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"/></a></li>
+</ul>
+
+	<div style="clear: both;"></div>
+</footer>
+
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.784","walltime":"0.943","ppvisitednodes":{"value":6186,"limit":1000000},"postexpandincludesize":{"value":186773,"limit":2097152},"templateargumentsize":{"value":17641,"limit":2097152},"expansiondepth":{"value":15,"limit":40},"expensivefunctioncount":{"value":3,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":70740,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  774.685      1 -total"," 28.87%  223.682      1 Template:Reflist"," 22.27%  172.517     15 Template:Cite_web"," 16.33%  126.506      4 Template:Pie_chart"," 15.40%  119.294      1 Template:More_citations_needed"," 14.30%  110.751      1 Template:US_Census_population"," 12.22%   94.684      1 Template:Ambox"," 10.39%   80.522     30 Template:Legend","  8.45%   65.485      1 Template:Florida","  7.87%   60.953      2 Template:Navbox"]},"scribunto":{"limitreport-timeusage":{"value":"0.333","limit":"10.000"},"limitreport-memusage":{"value":6758832,"limit":52428800}},"cachereport":{"origin":"mw1286","timestamp":"20210112100303","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Demographics of Florida","url":"https:\/\/en.wikipedia.org\/wiki\/Demographics_of_Florida","sameAs":"http:\/\/www.wikidata.org\/entity\/Q3044244","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q3044244","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2008-04-02T02:17:07Z","dateModified":"2020-12-20T01:06:08Z","headline":"demographics of the U.S. state"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":148,"wgHostname":"mw1353"});});</script>
+</body></html>

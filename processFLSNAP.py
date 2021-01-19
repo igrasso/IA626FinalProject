@@ -10,6 +10,16 @@ with open('snap_data.csv') as f:
     data = [{k: str(v) for k, v in row.items()}
         for row in csv.DictReader(f, skipinitialspace=True)]
 
+# View all of the unique inputs for ethnicity
+ehist = {}
+for row in data:
+    k = row['ethnicity']
+    if k in ehist.keys():
+        ehist[k] += 1
+    else:
+        ehist[k] = 1
+print(ehist)
+
 # Clean ethnicity column
 i = 0
 for row in data:
@@ -56,3 +66,14 @@ for row in data:
     else:
         lhist[k] = 1
 print(lhist)
+
+# Write data to CSV files
+csv_file = "snap_race.csv"
+with open('snap_race.csv', 'w') as f:
+    for key in ehist.keys():
+        f.write("%s,%s\n"%(key,ehist[key]))
+
+csv_file = "snap_language.csv"
+with open('snap_language.csv', 'w') as f:
+    for key in lhist.keys():
+        f.write("%s,%s\n"%(key,lhist[key]))
